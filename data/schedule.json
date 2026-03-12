@@ -561,7 +561,7 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "denied",
+      "status": "approved",
       "submittedAt": "3/12/2026, 2:36:36 PM",
       "rank": 2
     }
@@ -576,6 +576,10 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Miller, Kyle:2026-04": {
+      "days": {},
+      "contract": ""
     }
   },
   "published": false,
@@ -584,7 +588,7 @@
   "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "approved",
+  "bidFilter": "denied",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
