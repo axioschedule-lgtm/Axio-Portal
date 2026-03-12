@@ -680,7 +680,8 @@
         "6": "H",
         "7": "H",
         "8": "H",
-        "9": "S"
+        "9": "S",
+        "10": "S"
       },
       "contract": ""
     },
@@ -714,7 +715,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Piston",
-  "schedCrew": "Piston",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
