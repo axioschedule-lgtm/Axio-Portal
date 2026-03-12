@@ -575,6 +575,13 @@
     "Miller, Kyle:2026-04": {
       "days": {},
       "contract": ""
+    },
+    "Lockamy, Adam:2026-04": {
+      "days": {
+        "1": "OD"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
