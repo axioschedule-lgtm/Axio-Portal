@@ -561,7 +561,7 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "approved",
+      "status": "denied",
       "submittedAt": "3/12/2026, 2:36:36 PM",
       "rank": 2
     }
@@ -571,10 +571,6 @@
       "days": {},
       "contract": "",
       "status": "manual"
-    },
-    "Miller, Kyle:2026-04": {
-      "days": {},
-      "contract": ""
     },
     "Lockamy, Adam:2026-04": {
       "days": {},
