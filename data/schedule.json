@@ -598,11 +598,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p16",
-    "name": "Miller, Kyle",
-    "role": "pilot",
-    "pilotId": "p16",
-    "username": "kyle.miller"
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
   },
   "loginTab": "admin",
   "ptoLedger": {}
