@@ -568,7 +568,9 @@
   ],
   "sched": {
     "Matthia, James:2026-04": {
-      "days": {},
+      "days": {
+        "1": "TR"
+      },
       "contract": "",
       "status": "manual"
     },
