@@ -584,7 +584,13 @@
       "status": "manual"
     },
     "Miller, Kyle:2026-04": {
-      "days": {},
+      "days": {
+        "1": "H",
+        "9": "H",
+        "10": "H",
+        "11": "H",
+        "18": "H"
+      },
       "contract": ""
     }
   },
@@ -594,7 +600,7 @@
   "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "denied",
+  "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
