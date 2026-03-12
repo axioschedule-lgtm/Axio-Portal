@@ -604,10 +604,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a2",
-    "name": "Flight Controller 1",
-    "role": "fc",
-    "username": "fc1"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {}
