@@ -668,7 +668,7 @@
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "all",
+  "bidFilter": "approved",
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
