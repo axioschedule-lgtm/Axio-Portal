@@ -594,7 +594,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/12/2026, 3:45:55 PM",
       "rank": 8
     },
@@ -696,6 +696,19 @@
         "27": "S"
       },
       "contract": "302"
+    },
+    "Morgan, Jackson:2026-04": {
+      "days": {
+        "9": "S",
+        "10": "H",
+        "11": "H",
+        "12": "H",
+        "13": "S",
+        "21": "H",
+        "22": "S",
+        "23": "S"
+      },
+      "contract": "930"
     }
   },
   "published": false,
