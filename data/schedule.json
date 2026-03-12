@@ -540,7 +540,32 @@
       "role": "fc"
     }
   ],
-  "bids": [],
+  "bids": [
+    {
+      "pilotId": "p16",
+      "name": "Miller, Kyle",
+      "crew": "Turbine",
+      "hard": "April 2026 1, April 2026 2, April 2026 3, April 2026 4, April 2026 13, April 2026 16",
+      "soft": "NONE",
+      "pto": "NONE",
+      "notes": "",
+      "contract": "",
+      "hardDates": [
+        "April 2026 1",
+        "April 2026 2",
+        "April 2026 3",
+        "April 2026 4",
+        "April 2026 13",
+        "April 2026 16"
+      ],
+      "softDates": [],
+      "ptoDates": [],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/12/2026, 2:27:08 PM",
+      "rank": 2
+    }
+  ],
   "sched": {},
   "published": false,
   "publishedAt": null,
