@@ -624,6 +624,34 @@
       "status": "pending",
       "submittedAt": "3/12/2026, 3:51:53 PM",
       "rank": 2
+    },
+    {
+      "pilotId": "p19",
+      "name": "King III, Fitzwilliam",
+      "crew": "Turbine",
+      "hard": "April 2026 2, April 2026 3, April 2026 4, April 2026 5, April 2026 6, April 2026 7, April 2026 8",
+      "soft": "April 2026 1, April 2026 9",
+      "pto": "NONE",
+      "notes": "ATP-CTP course at Delta in Atlanta.",
+      "contract": "",
+      "hardDates": [
+        "April 2026 2",
+        "April 2026 3",
+        "April 2026 4",
+        "April 2026 5",
+        "April 2026 6",
+        "April 2026 7",
+        "April 2026 8"
+      ],
+      "softDates": [
+        "April 2026 1",
+        "April 2026 9"
+      ],
+      "ptoDates": [],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/12/2026, 3:54:34 PM",
+      "rank": 5
     }
   ],
   "sched": {
