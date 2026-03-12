@@ -599,10 +599,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a2",
-    "name": "Flight Controller 1",
-    "role": "fc",
-    "username": "fc1"
+    "id": "p8",
+    "name": "Morgan, Jackson",
+    "role": "pilot",
+    "pilotId": "p8",
+    "username": "jackson.morgan"
   },
   "loginTab": "admin",
   "ptoLedger": {}
