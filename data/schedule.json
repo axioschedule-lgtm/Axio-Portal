@@ -587,7 +587,12 @@
   "bidFilter": "all",
   "bidMonthFilter": "all",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
+  },
   "loginTab": "admin",
   "ptoLedger": {}
 }
