@@ -597,6 +597,33 @@
       "status": "pending",
       "submittedAt": "3/12/2026, 3:45:55 PM",
       "rank": 8
+    },
+    {
+      "pilotId": "p2",
+      "name": "Foster II, Samuel",
+      "crew": "Piston",
+      "hard": "April 2026 4, April 2026 24, April 2026 25, April 2026 26",
+      "soft": "April 2026 3, April 2026 5, April 2026 23, April 2026 27",
+      "pto": "NONE",
+      "notes": "Retrieving data. Wait a few seconds and try to cut or copy again.",
+      "contract": "302",
+      "hardDates": [
+        "April 2026 4",
+        "April 2026 24",
+        "April 2026 25",
+        "April 2026 26"
+      ],
+      "softDates": [
+        "April 2026 3",
+        "April 2026 5",
+        "April 2026 23",
+        "April 2026 27"
+      ],
+      "ptoDates": [],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/12/2026, 3:51:46 PM",
+      "rank": 2
     }
   ],
   "sched": {
