@@ -561,16 +561,12 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "approved",
+      "status": "denied",
       "submittedAt": "3/12/2026, 2:36:36 PM",
       "rank": 2
     }
   ],
   "sched": {
-    "Miller, Kyle:2026-04": {
-      "days": {},
-      "contract": ""
-    },
     "Matthia, James:2026-04": {
       "days": {},
       "contract": "",
