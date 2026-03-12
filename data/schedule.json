@@ -583,7 +583,7 @@
   "schedCrew": "Phenom 100",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "denied",
+  "bidFilter": "approved",
   "bidMonthFilter": "all",
   "yvCrew": "Piston",
   "currentUser": {
