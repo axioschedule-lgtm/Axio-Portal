@@ -560,15 +560,26 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/12/2026, 2:31:38 PM",
       "rank": 2
     }
   ],
-  "sched": {},
+  "sched": {
+    "Miller, Kyle:2026-04": {
+      "days": {
+        "10": "H",
+        "12": "H",
+        "16": "H",
+        "20": "H",
+        "21": "H"
+      },
+      "contract": ""
+    }
+  },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Piston",
+  "adminCrew": "King Air 200",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
