@@ -649,7 +649,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/12/2026, 3:54:34 PM",
       "rank": 5
     }
@@ -669,6 +669,20 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "King III, Fitzwilliam:2026-04": {
+      "days": {
+        "1": "S",
+        "2": "H",
+        "3": "H",
+        "4": "H",
+        "5": "H",
+        "6": "H",
+        "7": "H",
+        "8": "H",
+        "9": "S"
+      },
+      "contract": ""
     }
   },
   "published": false,
