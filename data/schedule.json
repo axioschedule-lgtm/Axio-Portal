@@ -593,12 +593,7 @@
   "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {}
 }
