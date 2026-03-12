@@ -585,7 +585,8 @@
     },
     "Miller, Kyle:2026-04": {
       "days": {
-        "1": "FLT:N369AX"
+        "1": "FLT:N369AX",
+        "2": "FLT:N369AX"
       },
       "contract": "",
       "status": "manual"
