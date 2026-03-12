@@ -591,12 +591,7 @@
   "bidFilter": "denied",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "a1773340703116",
-    "name": "Zach Sanford",
-    "role": "admin",
-    "username": "zach.sanford"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {}
 }
