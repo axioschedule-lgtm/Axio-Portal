@@ -640,6 +640,26 @@
       },
       "contract": "",
       "status": "preview"
+    },
+    "Miller, Kyle:2026-05": {
+      "days": {
+        "6": "H",
+        "7": "H",
+        "8": "H",
+        "9": "H",
+        "10": "H",
+        "11": "H",
+        "12": "H",
+        "13": "S",
+        "14": "S",
+        "15": "S",
+        "19": "PTO",
+        "20": "PTO",
+        "21": "PTO",
+        "22": "PTO"
+      },
+      "contract": "",
+      "status": "preview"
     }
   },
   "published": false,
@@ -649,7 +669,7 @@
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
-  "bidMonthFilter": "2026-04",
+  "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
     "id": "a1",
