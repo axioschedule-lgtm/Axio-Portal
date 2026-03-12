@@ -552,8 +552,8 @@
       "pilotId": "p16",
       "name": "Miller, Kyle",
       "crew": "Turbine",
-      "hard": "April 2026 1, April 2026 9, April 2026 10, April 2026 11, April 2026 13, April 2026 14, April 2026 18",
-      "soft": "April 2026 20, April 2026 21, April 2026 22",
+      "hard": "April 2026 1, April 2026 9, April 2026 10, April 2026 11, April 2026 18",
+      "soft": "NONE",
       "pto": "NONE",
       "notes": "",
       "contract": "",
@@ -562,19 +562,13 @@
         "April 2026 9",
         "April 2026 10",
         "April 2026 11",
-        "April 2026 13",
-        "April 2026 14",
         "April 2026 18"
       ],
-      "softDates": [
-        "April 2026 20",
-        "April 2026 21",
-        "April 2026 22"
-      ],
+      "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
       "status": "pending",
-      "submittedAt": "3/12/2026, 3:26:24 PM",
+      "submittedAt": "3/12/2026, 3:19:20 PM",
       "rank": 2
     }
   ],
@@ -592,20 +586,13 @@
     "Miller, Kyle:2026-04": {
       "days": {
         "1": "H",
-        "7": "OD",
+        "5": "FLT:N369AX",
         "9": "H",
         "10": "H",
         "11": "H",
-        "13": "H",
-        "14": "H",
-        "15": "FLT:N369AX",
-        "18": "H",
-        "20": "S",
-        "21": "S",
-        "22": "S"
+        "18": "H"
       },
-      "contract": "",
-      "status": "preview"
+      "contract": ""
     }
   },
   "published": false,
@@ -618,10 +605,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
   },
   "loginTab": "admin",
   "ptoLedger": {}
