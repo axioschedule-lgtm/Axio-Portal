@@ -686,6 +686,7 @@
     },
     "Foster II, Samuel:2026-04": {
       "days": {
+        "1": "AXO302",
         "3": "S",
         "4": "H",
         "5": "S",
@@ -714,7 +715,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Piston",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
