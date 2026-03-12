@@ -575,7 +575,12 @@
   "bidFilter": "all",
   "bidMonthFilter": "all",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
+  },
   "loginTab": "admin",
   "ptoLedger": {}
 }
