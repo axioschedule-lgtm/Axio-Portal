@@ -621,7 +621,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/12/2026, 3:51:53 PM",
       "rank": 2
     },
@@ -683,11 +683,24 @@
         "9": "S"
       },
       "contract": ""
+    },
+    "Foster II, Samuel:2026-04": {
+      "days": {
+        "3": "S",
+        "4": "H",
+        "5": "S",
+        "23": "S",
+        "24": "H",
+        "25": "H",
+        "26": "H",
+        "27": "S"
+      },
+      "contract": "302"
     }
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "King Air 200",
+  "adminCrew": "Piston",
   "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
