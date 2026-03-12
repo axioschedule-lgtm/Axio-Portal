@@ -567,7 +567,7 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "denied",
       "submittedAt": "3/12/2026, 3:19:20 PM",
       "rank": 2
     }
@@ -585,25 +585,28 @@
     },
     "Miller, Kyle:2026-04": {
       "days": {
-        "1": "OD"
+        "16": "FLT:N369AX",
+        "17": "FLT:N369AX",
+        "18": "FLT:N369AX"
       },
-      "contract": ""
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
   "publishedAt": null,
   "adminCrew": "King Air 200",
-  "schedCrew": "Phenom 100",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "denied",
+  "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1773340703116",
-    "name": "Zach Sanford",
-    "role": "admin",
-    "username": "zach.sanford"
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
   },
   "loginTab": "admin",
   "ptoLedger": {}
