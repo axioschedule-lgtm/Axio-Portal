@@ -660,12 +660,17 @@
       },
       "contract": "",
       "status": "preview"
+    },
+    "King III, Fitzwilliam:2026-04": {
+      "days": {},
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Phenom 100",
-  "schedCrew": "Piston",
+  "adminCrew": "Piston",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "approved",
