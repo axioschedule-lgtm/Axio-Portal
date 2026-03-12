@@ -626,11 +626,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p8",
-    "name": "Morgan, Jackson",
+    "id": "p2",
+    "name": "Foster II, Samuel",
     "role": "pilot",
-    "pilotId": "p8",
-    "username": "jackson.morgan"
+    "pilotId": "p2",
+    "username": "samuel.foster"
   },
   "loginTab": "admin",
   "ptoLedger": {}
