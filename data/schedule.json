@@ -588,6 +588,22 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Miller, Kyle:2026-04": {
+      "days": {
+        "1": "H",
+        "9": "H",
+        "10": "H",
+        "11": "H",
+        "13": "H",
+        "14": "H",
+        "18": "H",
+        "20": "S",
+        "21": "S",
+        "22": "S"
+      },
+      "contract": "",
+      "status": "preview"
     }
   },
   "published": false,
