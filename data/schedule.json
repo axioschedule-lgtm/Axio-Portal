@@ -643,7 +643,8 @@
     },
     "Miller, Kyle:2026-05": {
       "days": {
-        "7": "FLT:N369AX",
+        "6": "H",
+        "7": "H",
         "8": "H",
         "9": "H",
         "10": "H",
@@ -664,7 +665,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "King Air 200",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
