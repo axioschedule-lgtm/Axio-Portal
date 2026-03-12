@@ -567,7 +567,7 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "denied",
       "submittedAt": "3/12/2026, 3:19:20 PM",
       "rank": 2
     }
@@ -582,16 +582,6 @@
       "days": {},
       "contract": "",
       "status": "manual"
-    },
-    "Miller, Kyle:2026-04": {
-      "days": {
-        "1": "H",
-        "9": "H",
-        "10": "H",
-        "11": "H",
-        "18": "H"
-      },
-      "contract": ""
     }
   },
   "published": false,
