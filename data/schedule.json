@@ -622,7 +622,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/13/2026, 8:18:46 AM",
       "rank": 2
     }
@@ -683,7 +683,7 @@
     "Foster II, Samuel:2026-04": {
       "days": {
         "3": "H",
-        "4": "TR",
+        "4": "H",
         "5": "TR",
         "6": "TR",
         "7": "H",
