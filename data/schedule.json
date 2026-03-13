@@ -652,11 +652,18 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Foster II, Samuel:2026-04": {
+      "days": {
+        "4": "TR"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Phenom 100",
+  "adminCrew": "Piston",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
