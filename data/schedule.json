@@ -640,7 +640,6 @@
     },
     "Miller, Kyle:2026-04": {
       "days": {
-        "11": "TR",
         "12": "TR",
         "13": "TR",
         "18": "H",
@@ -685,7 +684,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Piston",
-  "schedCrew": "Piston",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "denied",
