@@ -701,7 +701,12 @@
   "bidFilter": "approved",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
