@@ -552,29 +552,17 @@
       "pilotId": "p16",
       "name": "Miller, Kyle",
       "crew": "Turbine",
-      "hard": "April 2026 1, April 2026 9, April 2026 10, April 2026 11, April 2026 13, April 2026 14, April 2026 18",
-      "soft": "April 2026 20, April 2026 21, April 2026 22",
+      "hard": "NONE",
+      "soft": "NONE",
       "pto": "NONE",
       "notes": "",
       "contract": "",
-      "hardDates": [
-        "April 2026 1",
-        "April 2026 9",
-        "April 2026 10",
-        "April 2026 11",
-        "April 2026 13",
-        "April 2026 14",
-        "April 2026 18"
-      ],
-      "softDates": [
-        "April 2026 20",
-        "April 2026 21",
-        "April 2026 22"
-      ],
+      "hardDates": [],
+      "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "approved",
-      "submittedAt": "3/12/2026, 3:26:24 PM",
+      "status": "pending",
+      "submittedAt": "3/13/2026, 8:11:31 AM",
       "rank": 2
     },
     {
