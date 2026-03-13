@@ -677,10 +677,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p16",
+    "name": "Miller, Kyle",
+    "role": "pilot",
+    "pilotId": "p16",
+    "username": "kyle.miller"
   },
   "loginTab": "admin",
   "ptoLedger": {
