@@ -683,10 +683,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "King Air 200",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p17",
+    "name": "Matthia, James",
+    "role": "pilot",
+    "pilotId": "p17",
+    "username": "james.matthia"
   },
   "loginTab": "admin",
   "ptoLedger": {
