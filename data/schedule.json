@@ -470,7 +470,7 @@
       "ratings": "King Air PIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 7,
+      "kaRank": 6,
       "phRank": 0
     },
     {
@@ -495,7 +495,7 @@
       "ratings": "King Air PIC, Phenom SIC",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 8,
+      "kaRank": 7,
       "phRank": 4
     },
     {
@@ -520,7 +520,7 @@
       "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 6,
+      "kaRank": 8,
       "phRank": 5
     }
   ],
@@ -552,17 +552,29 @@
       "pilotId": "p16",
       "name": "Miller, Kyle",
       "crew": "Turbine",
-      "hard": "NONE",
-      "soft": "NONE",
+      "hard": "April 2026 1, April 2026 9, April 2026 10, April 2026 11, April 2026 13, April 2026 14, April 2026 18",
+      "soft": "April 2026 20, April 2026 21, April 2026 22",
       "pto": "NONE",
       "notes": "",
       "contract": "",
-      "hardDates": [],
-      "softDates": [],
+      "hardDates": [
+        "April 2026 1",
+        "April 2026 9",
+        "April 2026 10",
+        "April 2026 11",
+        "April 2026 13",
+        "April 2026 14",
+        "April 2026 18"
+      ],
+      "softDates": [
+        "April 2026 20",
+        "April 2026 21",
+        "April 2026 22"
+      ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
-      "submittedAt": "3/13/2026, 8:11:31 AM",
+      "status": "approved",
+      "submittedAt": "3/12/2026, 3:26:24 PM",
       "rank": 2
     },
     {
@@ -598,33 +610,6 @@
       "status": "approved",
       "submittedAt": "3/12/2026, 4:23:33 PM",
       "rank": 2
-    },
-    {
-      "pilotId": "p2",
-      "name": "Foster II, Samuel",
-      "crew": "Piston",
-      "hard": "April 2026 3, April 2026 4, April 2026 10, April 2026 11",
-      "soft": "April 2026 17, April 2026 18, April 2026 24, April 2026 25",
-      "pto": "NONE",
-      "notes": "",
-      "contract": "302",
-      "hardDates": [
-        "April 2026 3",
-        "April 2026 4",
-        "April 2026 10",
-        "April 2026 11"
-      ],
-      "softDates": [
-        "April 2026 17",
-        "April 2026 18",
-        "April 2026 24",
-        "April 2026 25"
-      ],
-      "ptoDates": [],
-      "month": "2026-04",
-      "status": "denied",
-      "submittedAt": "3/13/2026, 8:18:46 AM",
-      "rank": 2
     }
   ],
   "sched": {
@@ -634,22 +619,20 @@
       "status": "manual"
     },
     "Lockamy, Adam:2026-04": {
-      "days": {
-        "3": "H",
-        "4": "H",
-        "8": "TR",
-        "9": "TR",
-        "10": "TR",
-        "18": "H"
-      },
+      "days": {},
       "contract": "",
       "status": "manual"
     },
     "Miller, Kyle:2026-04": {
       "days": {
-        "11": "TR",
-        "12": "TR",
-        "13": "TR",
+        "1": "H",
+        "7": "OD",
+        "9": "H",
+        "10": "H",
+        "11": "H",
+        "13": "H",
+        "14": "H",
+        "15": "FLT:N369AX",
         "18": "H",
         "20": "S",
         "21": "S",
@@ -677,41 +660,22 @@
       },
       "contract": "",
       "status": "preview"
-    },
-    "King III, Fitzwilliam:2026-04": {
-      "days": {},
-      "contract": "",
-      "status": "manual"
-    },
-    "Foster II, Samuel:2026-04": {
-      "days": {
-        "3": "H",
-        "4": "H",
-        "10": "H",
-        "11": "H",
-        "17": "S",
-        "18": "S",
-        "24": "S",
-        "25": "S"
-      },
-      "contract": "302",
-      "status": "preview"
     }
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Piston",
+  "adminCrew": "Phenom 100",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "denied",
-  "bidMonthFilter": "2026-04",
+  "bidFilter": "approved",
+  "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a2",
-    "name": "Flight Controller 1",
-    "role": "fc",
-    "username": "fc1"
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
