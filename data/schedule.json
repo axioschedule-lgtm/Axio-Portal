@@ -674,7 +674,8 @@
     },
     "Ledbetter, Luke:2026-04": {
       "days": {
-        "10": "TR"
+        "10": "TR",
+        "11": "TR"
       },
       "contract": "",
       "status": "manual"
