@@ -683,10 +683,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "King Air 200",
   "currentUser": {
-    "id": "a1773340703116",
-    "name": "Zach Sanford",
+    "id": "a1",
+    "name": "System Admin",
     "role": "admin",
-    "username": "zach.sanford"
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
