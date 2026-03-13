@@ -607,7 +607,9 @@
       "status": "manual"
     },
     "Lockamy, Adam:2026-04": {
-      "days": {},
+      "days": {
+        "8": "TR"
+      },
       "contract": "",
       "status": "manual"
     },
