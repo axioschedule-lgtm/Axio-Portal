@@ -615,7 +615,6 @@
       "days": {
         "9": "H",
         "10": "H",
-        "11": "H",
         "18": "H",
         "20": "S",
         "21": "S",
@@ -652,7 +651,7 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Piston",
+  "adminCrew": "Phenom 100",
   "schedCrew": "Phenom 100",
   "liveCrew": "Piston",
   "liveViewAs": "",
