@@ -702,6 +702,13 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Normand, Thomas:2026-04": {
+      "days": {
+        "5": "TR"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
@@ -710,7 +717,7 @@
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "denied",
+  "bidFilter": "approved",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
