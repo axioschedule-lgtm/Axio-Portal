@@ -470,7 +470,7 @@
       "ratings": "King Air PIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 7,
+      "kaRank": 6,
       "phRank": 0
     },
     {
@@ -495,7 +495,7 @@
       "ratings": "King Air PIC, Phenom SIC",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 8,
+      "kaRank": 7,
       "phRank": 4
     },
     {
@@ -520,7 +520,7 @@
       "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 6,
+      "kaRank": 8,
       "phRank": 5
     }
   ],
@@ -679,10 +679,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a2",
-    "name": "Flight Controller 1",
-    "role": "fc",
-    "username": "fc1"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
