@@ -629,7 +629,9 @@
   ],
   "sched": {
     "Matthia, James:2026-04": {
-      "days": {},
+      "days": {
+        "6": "TR"
+      },
       "contract": "",
       "status": "manual"
     },
@@ -677,7 +679,7 @@
   "liveViewAs": "",
   "bidFilter": "denied",
   "bidMonthFilter": "2026-04",
-  "yvCrew": "Piston",
+  "yvCrew": "King Air 200",
   "currentUser": {
     "id": "a1",
     "name": "System Admin",
