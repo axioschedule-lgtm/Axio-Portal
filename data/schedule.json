@@ -663,7 +663,13 @@
   "bidFilter": "approved",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p1",
+    "name": "Lockamy, Adam",
+    "role": "pilot",
+    "pilotId": "p1",
+    "username": "adam.lockamy"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
