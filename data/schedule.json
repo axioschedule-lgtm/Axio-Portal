@@ -671,17 +671,24 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Ledbetter, Luke:2026-04": {
+      "days": {
+        "10": "TR"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
   "publishedAt": null,
   "adminCrew": "King Air 200",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "denied",
   "bidMonthFilter": "2026-04",
-  "yvCrew": "King Air 200",
+  "yvCrew": "Piston",
   "currentUser": {
     "id": "a1",
     "name": "System Admin",
