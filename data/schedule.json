@@ -657,7 +657,8 @@
       "days": {
         "4": "TR",
         "5": "TR",
-        "6": "TR"
+        "6": "TR",
+        "16": "AXO930"
       },
       "contract": "",
       "status": "manual"
