@@ -701,13 +701,7 @@
   "bidFilter": "approved",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "p2",
-    "name": "Foster II, Samuel",
-    "role": "pilot",
-    "pilotId": "p2",
-    "username": "samuel.foster"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
