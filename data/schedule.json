@@ -679,6 +679,20 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Foster II, Samuel:2026-04": {
+      "days": {
+        "3": "H",
+        "4": "H",
+        "10": "H",
+        "11": "H",
+        "17": "S",
+        "18": "S",
+        "24": "S",
+        "25": "S"
+      },
+      "contract": "302",
+      "status": "preview"
     }
   },
   "published": false,
@@ -687,7 +701,7 @@
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "approved",
+  "bidFilter": "denied",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
