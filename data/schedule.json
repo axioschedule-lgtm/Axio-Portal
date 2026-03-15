@@ -561,7 +561,7 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/13/2026, 8:11:31 AM",
       "rank": 2
     },
@@ -754,7 +754,7 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Piston",
+  "adminCrew": "King Air 200",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
