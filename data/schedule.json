@@ -722,6 +722,13 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Niesen, Nate:2026-04": {
+      "days": {
+        "5": "H"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
