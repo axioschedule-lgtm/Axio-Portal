@@ -752,12 +752,19 @@
         "25": "S"
       },
       "contract": "302"
+    },
+    "Molnar, Andrew:2026-04": {
+      "days": {
+        "1": "H"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "King Air 200",
-  "schedCrew": "Piston",
+  "adminCrew": "Phenom 100",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "approved",
