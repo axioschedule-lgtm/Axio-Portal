@@ -751,15 +751,21 @@
     },
     "Ledbetter, Luke:2026-04": {
       "days": {
-        "4": "S",
-        "11": "S",
+        "4": "H",
+        "5": "H",
+        "11": "H",
+        "12": "H",
         "13": "H",
         "14": "H",
         "16": "H",
         "17": "H",
-        "18": "S"
+        "18": "S",
+        "19": "S",
+        "23": "PTO",
+        "24": "S",
+        "25": "S"
       },
-      "contract": "930",
+      "contract": "302",
       "status": "manual"
     },
     "Niesen, Nate:2026-04": {
@@ -811,7 +817,7 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Phenom 100",
+  "adminCrew": "Piston",
   "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
