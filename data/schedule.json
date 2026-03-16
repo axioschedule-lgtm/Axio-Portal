@@ -818,13 +818,7 @@
   "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "p6",
-    "name": "Ledbetter, Luke",
-    "role": "pilot",
-    "pilotId": "p6",
-    "username": "luke.ledbetter"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
