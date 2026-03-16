@@ -740,6 +740,7 @@
     },
     "Foster II, Samuel:2026-04": {
       "days": {
+        "1": "H",
         "3": "H",
         "4": "H",
         "10": "H",
@@ -758,7 +759,7 @@
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "pending",
+  "bidFilter": "approved",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
