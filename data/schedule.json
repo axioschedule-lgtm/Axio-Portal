@@ -798,13 +798,7 @@
   "bidFilter": "approved",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "p21",
-    "name": "Molnar, Andrew",
-    "role": "pilot",
-    "pilotId": "p21",
-    "username": "andrew.molnar"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
