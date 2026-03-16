@@ -651,7 +651,7 @@
         "April 2026 23"
       ],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/16/2026, 3:54:23 PM",
       "rank": 6
     },
@@ -818,7 +818,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Piston",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
@@ -836,6 +836,13 @@
       "annualAllotment": 10,
       "used": {
         "2026-05": 4
+      },
+      "notes": {}
+    },
+    "p6": {
+      "annualAllotment": 10,
+      "used": {
+        "2026-04": 1
       },
       "notes": {}
     }
