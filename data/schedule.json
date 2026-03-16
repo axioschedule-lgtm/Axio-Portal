@@ -799,7 +799,8 @@
     },
     "Rokala, Hannah:2026-04": {
       "days": {
-        "10": "FLT:N34LT"
+        "10": "FLT:N34LT",
+        "11": "FLT:N34LT"
       },
       "contract": "",
       "status": "manual"
