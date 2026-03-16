@@ -783,7 +783,16 @@
     },
     "Molnar, Andrew:2026-04": {
       "days": {
-        "1": "H"
+        "1": "H",
+        "2": "H",
+        "3": "H",
+        "4": "H",
+        "17": "S",
+        "26": "S",
+        "27": "H",
+        "28": "H",
+        "29": "H",
+        "30": "H"
       },
       "contract": "",
       "status": "manual"
@@ -795,7 +804,7 @@
   "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "approved",
+  "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
