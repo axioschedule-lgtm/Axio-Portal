@@ -815,13 +815,7 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "p19",
-    "name": "King III, Fitzwilliam",
-    "role": "pilot",
-    "pilotId": "p19",
-    "username": "fitzwilliam.king"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
