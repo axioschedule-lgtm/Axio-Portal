@@ -816,10 +816,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1773340703116",
-    "name": "Zach Sanford",
-    "role": "admin",
-    "username": "zach.sanford"
+    "id": "p20",
+    "name": "Rokala, Hannah",
+    "role": "pilot",
+    "pilotId": "p20",
+    "username": "hannah.rokala"
   },
   "loginTab": "admin",
   "ptoLedger": {
