@@ -974,11 +974,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p19",
-    "name": "King III, Fitzwilliam",
-    "role": "pilot",
-    "pilotId": "p19",
-    "username": "fitzwilliam.king"
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
