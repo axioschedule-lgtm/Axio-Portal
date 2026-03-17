@@ -787,11 +787,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p2",
-    "name": "Foster II, Samuel",
-    "role": "pilot",
-    "pilotId": "p2",
-    "username": "samuel.foster"
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
