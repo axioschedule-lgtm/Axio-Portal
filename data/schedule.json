@@ -763,7 +763,6 @@
     },
     "Rokala, Hannah:2026-04": {
       "days": {
-        "10": "FLT:N34LT",
         "11": "FLT:N34LT"
       },
       "contract": "",
@@ -783,7 +782,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Phenom 100",
-  "schedCrew": "Phenom 100",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
