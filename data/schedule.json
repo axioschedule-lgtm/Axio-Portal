@@ -711,7 +711,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "approved",
+      "status": "denied",
       "submittedAt": "3/16/2026, 2:37:15 PM",
       "rank": 7
     }
@@ -778,20 +778,6 @@
       "days": {},
       "contract": "",
       "status": "manual"
-    },
-    "Molnar, Andrew:2026-04": {
-      "days": {
-        "2": "H",
-        "3": "H",
-        "4": "H",
-        "17": "S",
-        "26": "S",
-        "27": "H",
-        "28": "H",
-        "29": "H",
-        "30": "H"
-      },
-      "contract": ""
     }
   },
   "published": false,
