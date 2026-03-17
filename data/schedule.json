@@ -923,7 +923,16 @@
       "status": "manual"
     },
     "Foster II, Samuel:2026-04": {
-      "days": {},
+      "days": {
+        "4": "H",
+        "5": "S",
+        "11": "S",
+        "18": "S",
+        "19": "S",
+        "24": "H",
+        "25": "H",
+        "26": "H"
+      },
       "contract": "302"
     },
     "Rokala, Hannah:2026-04": {
@@ -986,10 +995,10 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Piston",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "pending",
+  "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
