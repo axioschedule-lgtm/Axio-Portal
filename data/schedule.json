@@ -575,7 +575,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "approved",
+      "status": "denied",
       "submittedAt": "3/17/2026, 1:36:57 PM",
       "rank": 2
     },
@@ -1025,21 +1025,6 @@
         "24": "S"
       },
       "contract": "either"
-    },
-    "Miller, Kyle:2026-04": {
-      "days": {
-        "1": "H",
-        "6": "H",
-        "7": "H",
-        "8": "H",
-        "13": "H",
-        "14": "H",
-        "15": "H",
-        "23": "S",
-        "24": "S",
-        "25": "S"
-      },
-      "contract": ""
     }
   },
   "published": false,
