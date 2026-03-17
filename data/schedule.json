@@ -804,6 +804,39 @@
       "status": "pending",
       "submittedAt": "3/17/2026, 2:55:35 PM",
       "rank": 8
+    },
+    {
+      "pilotId": "p18",
+      "name": "Stafford, Russel",
+      "crew": "Turbine",
+      "hard": "April 2026 11, April 2026 12, April 2026 13, April 2026 15, April 2026 16, April 2026 24, April 2026 25",
+      "soft": "April 2026 9, April 2026 10, April 2026 14",
+      "pto": "April 2026 17, April 2026 18, April 2026 19",
+      "notes": "",
+      "contract": "",
+      "hardDates": [
+        "April 2026 11",
+        "April 2026 12",
+        "April 2026 13",
+        "April 2026 15",
+        "April 2026 16",
+        "April 2026 24",
+        "April 2026 25"
+      ],
+      "softDates": [
+        "April 2026 9",
+        "April 2026 10",
+        "April 2026 14"
+      ],
+      "ptoDates": [
+        "April 2026 17",
+        "April 2026 18",
+        "April 2026 19"
+      ],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/17/2026, 3:03:20 PM",
+      "rank": 4
     }
   ],
   "sched": {
