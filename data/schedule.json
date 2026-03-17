@@ -787,11 +787,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p4",
-    "name": "Urciuoli, Joe",
-    "role": "pilot",
-    "pilotId": "p4",
-    "username": "joe.urciuoli"
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
