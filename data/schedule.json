@@ -846,13 +846,7 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "p17",
-    "name": "Matthia, James",
-    "role": "pilot",
-    "pilotId": "p17",
-    "username": "james.matthia"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
