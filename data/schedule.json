@@ -914,6 +914,25 @@
       },
       "contract": "",
       "status": "preview"
+    },
+    "Stafford, Russel:2026-04": {
+      "days": {
+        "9": "S",
+        "10": "S",
+        "11": "H",
+        "12": "H",
+        "13": "H",
+        "14": "S",
+        "15": "H",
+        "16": "H",
+        "17": "PTO",
+        "18": "PTO",
+        "19": "PTO",
+        "24": "H",
+        "25": "H"
+      },
+      "contract": "",
+      "status": "preview"
     }
   },
   "published": false,
