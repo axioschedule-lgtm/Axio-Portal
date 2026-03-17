@@ -77,7 +77,8 @@
       "last": "Urciuoli",
       "first": "Joe",
       "crews": [
-        "Piston"
+        "Piston",
+        "Turbine"
       ],
       "crew": "Piston",
       "role": "PIC",
@@ -93,7 +94,8 @@
       "color": "#3A5A0A",
       "ratings": "",
       "notes": "",
-      "aircraft": ""
+      "aircraft": "Baron 58,King Air 200",
+      "kaRank": 6
     },
     {
       "id": "p5",
@@ -470,7 +472,7 @@
       "ratings": "King Air PIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 6,
+      "kaRank": 7,
       "phRank": 0
     },
     {
@@ -495,7 +497,7 @@
       "ratings": "King Air PIC, Phenom SIC",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 7,
+      "kaRank": 8,
       "phRank": 4
     },
     {
@@ -520,7 +522,7 @@
       "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 8,
+      "kaRank": 9,
       "phRank": 5
     }
   ],
@@ -714,84 +716,6 @@
       "status": "denied",
       "submittedAt": "3/16/2026, 2:37:15 PM",
       "rank": 7
-    },
-    {
-      "pilotId": "p19",
-      "name": "King III, Fitzwilliam",
-      "crew": "Turbine",
-      "hard": "April 2026 2, April 2026 3, April 2026 4, April 2026 5, April 2026 6, April 2026 7, April 2026 8",
-      "soft": "April 2026 1, April 2026 9, April 2026 10",
-      "pto": "NONE",
-      "notes": "",
-      "contract": "",
-      "hardDates": [
-        "April 2026 2",
-        "April 2026 3",
-        "April 2026 4",
-        "April 2026 5",
-        "April 2026 6",
-        "April 2026 7",
-        "April 2026 8"
-      ],
-      "softDates": [
-        "April 2026 1",
-        "April 2026 9",
-        "April 2026 10"
-      ],
-      "ptoDates": [],
-      "month": "2026-04",
-      "status": "pending",
-      "submittedAt": "3/17/2026, 2:31:32 PM",
-      "rank": 5
-    },
-    {
-      "pilotId": "p8",
-      "name": "Morgan, Jackson",
-      "crew": "Piston",
-      "hard": "April 2026 10, April 2026 11, April 2026 12, April 2026 21",
-      "soft": "April 2026 22, April 2026 23",
-      "pto": "NONE",
-      "notes": "",
-      "contract": "930",
-      "hardDates": [
-        "April 2026 10",
-        "April 2026 11",
-        "April 2026 12",
-        "April 2026 21"
-      ],
-      "softDates": [
-        "April 2026 22",
-        "April 2026 23"
-      ],
-      "ptoDates": [],
-      "month": "2026-04",
-      "status": "pending",
-      "submittedAt": "3/17/2026, 2:32:27 PM",
-      "rank": 8
-    },
-    {
-      "pilotId": "p20",
-      "name": "Rokala, Hannah",
-      "crew": "Turbine",
-      "hard": "April 2026 9, April 2026 10, April 2026 11, April 2026 12",
-      "soft": "April 2026 13",
-      "pto": "NONE",
-      "notes": "",
-      "contract": "",
-      "hardDates": [
-        "April 2026 9",
-        "April 2026 10",
-        "April 2026 11",
-        "April 2026 12"
-      ],
-      "softDates": [
-        "April 2026 13"
-      ],
-      "ptoDates": [],
-      "month": "2026-04",
-      "status": "pending",
-      "submittedAt": "3/17/2026, 2:33:37 PM",
-      "rank": 6
     }
   ],
   "sched": {
@@ -858,18 +782,17 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Phenom 100",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p4",
-    "name": "Urciuoli, Joe",
-    "role": "pilot",
-    "pilotId": "p4",
-    "username": "joe.urciuoli"
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
