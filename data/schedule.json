@@ -732,7 +732,18 @@
       "status": "manual"
     },
     "Miller, Kyle:2026-04": {
-      "days": {},
+      "days": {
+        "1": "H",
+        "6": "H",
+        "7": "H",
+        "8": "H",
+        "13": "H",
+        "14": "H",
+        "15": "H",
+        "23": "S",
+        "24": "S",
+        "25": "S"
+      },
       "contract": "",
       "status": "preview"
     },
@@ -812,7 +823,7 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Piston",
+  "adminCrew": "Phenom 100",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
