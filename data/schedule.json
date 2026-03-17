@@ -716,6 +716,35 @@
       "status": "denied",
       "submittedAt": "3/16/2026, 2:37:15 PM",
       "rank": 7
+    },
+    {
+      "pilotId": "p4",
+      "name": "Urciuoli, Joe",
+      "crew": "Piston",
+      "hard": "April 2026 1, April 2026 9, April 2026 10, April 2026 11, April 2026 12, April 2026 13, April 2026 25",
+      "soft": "April 2026 5, April 2026 19, April 2026 24",
+      "pto": "NONE",
+      "notes": "",
+      "contract": "either",
+      "hardDates": [
+        "April 2026 1",
+        "April 2026 9",
+        "April 2026 10",
+        "April 2026 11",
+        "April 2026 12",
+        "April 2026 13",
+        "April 2026 25"
+      ],
+      "softDates": [
+        "April 2026 5",
+        "April 2026 19",
+        "April 2026 24"
+      ],
+      "ptoDates": [],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/17/2026, 2:44:40 PM",
+      "rank": 4
     }
   ],
   "sched": {
