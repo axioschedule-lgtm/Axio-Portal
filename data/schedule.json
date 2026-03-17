@@ -749,7 +749,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/17/2026, 2:44:40 PM",
       "rank": 4
     },
@@ -948,13 +948,18 @@
     },
     "Urciuoli, Joe:2026-04": {
       "days": {
+        "1": "H",
+        "5": "S",
         "9": "H",
         "10": "H",
         "11": "H",
         "12": "H",
-        "13": "H"
+        "13": "H",
+        "19": "S",
+        "24": "S",
+        "25": "H"
       },
-      "contract": "",
+      "contract": "either",
       "status": "manual"
     },
     "McKnight, Mike:2026-04": {
