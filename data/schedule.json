@@ -947,7 +947,9 @@
       "status": "manual"
     },
     "Urciuoli, Joe:2026-04": {
-      "days": {},
+      "days": {
+        "9": "H"
+      },
       "contract": "",
       "status": "manual"
     },
