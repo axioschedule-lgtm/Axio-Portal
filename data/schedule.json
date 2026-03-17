@@ -663,7 +663,7 @@
       ],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/17/2026, 2:48:57 PM",
       "rank": 6
     },
@@ -803,7 +803,7 @@
         "April 2026 5"
       ],
       "month": "2026-04",
-      "status": "pending",
+      "status": "approved",
       "submittedAt": "3/17/2026, 2:55:35 PM",
       "rank": 8
     },
@@ -913,7 +913,16 @@
       "status": "manual"
     },
     "Ledbetter, Luke:2026-04": {
-      "days": {},
+      "days": {
+        "4": "H",
+        "11": "S",
+        "12": "S",
+        "18": "S",
+        "19": "S",
+        "24": "H",
+        "25": "H",
+        "26": "H"
+      },
       "contract": "302",
       "status": "manual"
     },
@@ -1001,6 +1010,21 @@
       },
       "contract": "",
       "status": "preview"
+    },
+    "Morgan, Jackson:2026-04": {
+      "days": {
+        "3": "H",
+        "4": "PTO",
+        "5": "PTO",
+        "10": "H",
+        "11": "H",
+        "12": "H",
+        "21": "S",
+        "22": "S",
+        "23": "S",
+        "24": "S"
+      },
+      "contract": "either"
     }
   },
   "published": false,
@@ -1031,6 +1055,13 @@
       "annualAllotment": 10,
       "used": {
         "2026-04": 1
+      },
+      "notes": {}
+    },
+    "p8": {
+      "annualAllotment": 10,
+      "used": {
+        "2026-04": 2
       },
       "notes": {}
     }
