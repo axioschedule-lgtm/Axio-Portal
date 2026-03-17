@@ -909,13 +909,7 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "p18",
-    "name": "Stafford, Russel",
-    "role": "pilot",
-    "pilotId": "p18",
-    "username": "russel.stafford"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
