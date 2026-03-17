@@ -840,11 +840,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p20",
-    "name": "Rokala, Hannah",
-    "role": "pilot",
-    "pilotId": "p20",
-    "username": "hannah.rokala"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
