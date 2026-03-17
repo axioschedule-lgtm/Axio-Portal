@@ -743,6 +743,31 @@
       "status": "pending",
       "submittedAt": "3/17/2026, 2:31:32 PM",
       "rank": 5
+    },
+    {
+      "pilotId": "p8",
+      "name": "Morgan, Jackson",
+      "crew": "Piston",
+      "hard": "April 2026 10, April 2026 11, April 2026 12, April 2026 21",
+      "soft": "April 2026 22, April 2026 23",
+      "pto": "NONE",
+      "notes": "",
+      "contract": "930",
+      "hardDates": [
+        "April 2026 10",
+        "April 2026 11",
+        "April 2026 12",
+        "April 2026 21"
+      ],
+      "softDates": [
+        "April 2026 22",
+        "April 2026 23"
+      ],
+      "ptoDates": [],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/17/2026, 2:32:27 PM",
+      "rank": 8
     }
   ],
   "sched": {
