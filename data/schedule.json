@@ -815,7 +815,13 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p8",
+    "name": "Morgan, Jackson",
+    "role": "pilot",
+    "pilotId": "p8",
+    "username": "jackson.morgan"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
