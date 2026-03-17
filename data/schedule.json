@@ -1029,6 +1029,13 @@
         "24": "S"
       },
       "contract": "either"
+    },
+    "Burton, Theron:2026-04": {
+      "days": {
+        "15": "FLT:N369AX"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
