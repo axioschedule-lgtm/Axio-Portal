@@ -1032,7 +1032,8 @@
     },
     "Burton, Theron:2026-04": {
       "days": {
-        "15": "FLT:N369AX"
+        "15": "FLT:N369AX",
+        "16": "FLT:N369AX"
       },
       "contract": "",
       "status": "manual"
