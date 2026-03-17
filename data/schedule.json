@@ -839,7 +839,13 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p6",
+    "name": "Ledbetter, Luke",
+    "role": "pilot",
+    "pilotId": "p6",
+    "username": "luke.ledbetter"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
