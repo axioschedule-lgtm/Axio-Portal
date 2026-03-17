@@ -683,7 +683,7 @@
       "softDates": [],
       "ptoDates": [],
       "month": "2026-04",
-      "status": "approved",
+      "status": "denied",
       "submittedAt": "3/13/2026, 4:21:57 PM",
       "rank": 3
     },
@@ -717,15 +717,6 @@
     }
   ],
   "sched": {
-    "Matthia, James:2026-04": {
-      "days": {
-        "12": "H",
-        "13": "H",
-        "16": "FLT:N34LT"
-      },
-      "contract": "",
-      "status": "manual"
-    },
     "Lockamy, Adam:2026-04": {
       "days": {},
       "contract": "",
