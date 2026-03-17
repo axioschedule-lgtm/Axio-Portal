@@ -898,12 +898,28 @@
       "days": {},
       "contract": "",
       "status": "manual"
+    },
+    "Matthia, James:2026-04": {
+      "days": {
+        "1": "S",
+        "2": "S",
+        "3": "S",
+        "4": "H",
+        "5": "H",
+        "26": "H",
+        "27": "H",
+        "28": "H",
+        "29": "H",
+        "30": "H"
+      },
+      "contract": "",
+      "status": "preview"
     }
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Phenom 100",
-  "schedCrew": "Piston",
+  "adminCrew": "King Air 200",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
