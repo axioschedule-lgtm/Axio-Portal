@@ -864,7 +864,13 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p4",
+    "name": "Urciuoli, Joe",
+    "role": "pilot",
+    "pilotId": "p4",
+    "username": "joe.urciuoli"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
