@@ -1100,7 +1100,8 @@
     },
     "Griswold, Benjamin:2026-05": {
       "days": {
-        "2": "H"
+        "2": "H",
+        "3": "H"
       },
       "contract": "",
       "status": "manual"
