@@ -972,7 +972,9 @@
       "status": "manual"
     },
     "McKnight, Mike:2026-04": {
-      "days": {},
+      "days": {
+        "10": "H"
+      },
       "contract": "",
       "status": "manual"
     },
@@ -1083,7 +1085,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "King Air 200",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
