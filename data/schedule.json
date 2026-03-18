@@ -1097,6 +1097,13 @@
       },
       "contract": "",
       "status": "manual"
+    },
+    "Griswold, Benjamin:2026-05": {
+      "days": {
+        "2": "H"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
@@ -1106,7 +1113,7 @@
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
-  "bidMonthFilter": "2026-04",
+  "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
     "id": "a1773340703116",
