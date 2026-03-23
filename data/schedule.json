@@ -112,7 +112,7 @@
       "sysRole": "pilot",
       "shareSchedule": true,
       "username": "benjamin.griswold",
-      "password": "pilot123",
+      "password": "Sweetpea1996!",
       "color": "#7A9A4A",
       "ratings": "Cirrus VFR",
       "notes": "",
@@ -268,7 +268,7 @@
       "hire": "2026-03-23",
       "cert": "",
       "certType": "Commercial",
-      "rank": 12,
+      "rank": 13,
       "active": true,
       "sysRole": "pilot",
       "shareSchedule": true,
@@ -291,7 +291,7 @@
       "hire": "2026-03-23",
       "cert": "",
       "certType": "Commercial",
-      "rank": 13,
+      "rank": 14,
       "active": true,
       "sysRole": "pilot",
       "shareSchedule": true,
@@ -314,7 +314,7 @@
       "hire": "2026-03-23",
       "cert": "",
       "certType": "Commercial",
-      "rank": 14,
+      "rank": 15,
       "active": true,
       "sysRole": "pilot",
       "shareSchedule": true,
@@ -337,7 +337,7 @@
       "hire": "2026-03-23",
       "cert": "",
       "certType": "Commercial",
-      "rank": 15,
+      "rank": 16,
       "active": true,
       "sysRole": "pilot",
       "shareSchedule": true,
@@ -522,6 +522,26 @@
       "aircraft": "King Air 200,Phenom 100",
       "kaRank": 8,
       "phRank": 5
+    },
+    {
+      "id": "p1774300358591",
+      "last": "Speas",
+      "first": "Samuel",
+      "crew": "Piston",
+      "crews": [
+        "Piston"
+      ],
+      "role": "PIC",
+      "hire": "2026-03-23",
+      "cert": "4173133",
+      "sysRole": "pilot",
+      "rank": 12,
+      "active": true,
+      "username": "speas.samuel",
+      "password": "pilot123",
+      "aircraft": "SR-22",
+      "color": "#2A6496",
+      "shareSchedule": true
     }
   ],
   "adminAccounts": [
@@ -552,33 +572,29 @@
       "pilotId": "p16",
       "name": "Miller, Kyle",
       "crew": "Turbine",
-      "hard": "April 2026 12, April 2026 13, April 2026 24, April 2026 27, April 2026 28, April 2026 29, April 2026 30",
-      "soft": "April 2026 11, April 2026 18, April 2026 25",
-      "pto": "April 2026 2, April 2026 3, April 2026 4",
+      "hard": "April 2026 1, April 2026 6, April 2026 7, April 2026 8, April 2026 13, April 2026 14, April 2026 15",
+      "soft": "April 2026 23, April 2026 24, April 2026 25",
+      "pto": "NONE",
       "notes": "",
       "contract": "",
       "hardDates": [
-        "April 2026 12",
+        "April 2026 1",
+        "April 2026 6",
+        "April 2026 7",
+        "April 2026 8",
         "April 2026 13",
-        "April 2026 24",
-        "April 2026 27",
-        "April 2026 28",
-        "April 2026 29",
-        "April 2026 30"
+        "April 2026 14",
+        "April 2026 15"
       ],
       "softDates": [
-        "April 2026 11",
-        "April 2026 18",
+        "April 2026 23",
+        "April 2026 24",
         "April 2026 25"
       ],
-      "ptoDates": [
-        "April 2026 2",
-        "April 2026 3",
-        "April 2026 4"
-      ],
+      "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
-      "submittedAt": "3/23/2026, 5:03:54 PM",
+      "status": "denied",
+      "submittedAt": "3/17/2026, 1:36:57 PM",
       "rank": 2
     },
     {
@@ -1141,17 +1157,17 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "King Air 200",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a2",
-    "name": "Flight Controller 1",
-    "role": "fc",
-    "username": "fc1"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
