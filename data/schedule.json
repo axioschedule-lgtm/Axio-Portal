@@ -456,7 +456,7 @@
         "Turbine"
       ],
       "crew": "Turbine",
-      "role": "SIC",
+      "role": "PIC",
       "hire": "2025-08-18",
       "cert": "4740746",
       "certType": "Commercial",
@@ -481,7 +481,7 @@
         "Turbine"
       ],
       "crew": "Turbine",
-      "role": "SIC",
+      "role": "PIC",
       "hire": "2025-08-18",
       "cert": "4907757",
       "certType": "Commercial",
@@ -496,7 +496,7 @@
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
       "kaRank": 7,
-      "phRank": 5
+      "phRank": 4
     },
     {
       "id": "p22",
@@ -521,7 +521,7 @@
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
       "kaRank": 8,
-      "phRank": 4
+      "phRank": 5
     }
   ],
   "adminAccounts": [
@@ -1167,10 +1167,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p21",
+    "name": "Molnar, Andrew",
+    "role": "pilot",
+    "pilotId": "p21",
+    "username": "andrew.molnar"
   },
   "loginTab": "admin",
   "ptoLedger": {
