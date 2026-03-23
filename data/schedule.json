@@ -22,7 +22,7 @@
       "color": "#5A7A2A",
       "ratings": "Cirrus VFR, Cirrus IFR, King Air PIC, Phenom PIC",
       "notes": "",
-      "aircraft": "Baron 58,King Air 200,Phenom 100",
+      "aircraft": "SR-22,King Air 200,Phenom 100",
       "kaRank": 1,
       "phRank": 1
     },
@@ -231,7 +231,7 @@
       "color": "#0A2A00",
       "ratings": "Cirrus VFR, Baron VFR",
       "notes": "",
-      "aircraft": "SR-22"
+      "aircraft": "SR-22,Baron 58"
     },
     {
       "id": "p11",
@@ -254,7 +254,7 @@
       "color": "#AACA7A",
       "ratings": "",
       "notes": "",
-      "aircraft": "SR-22"
+      "aircraft": ""
     },
     {
       "id": "p12",
@@ -1164,10 +1164,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p3",
+    "name": "McKnight, Mike",
+    "role": "pilot",
+    "pilotId": "p3",
+    "username": "mike.mcknight"
   },
   "loginTab": "admin",
   "ptoLedger": {
