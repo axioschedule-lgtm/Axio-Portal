@@ -870,6 +870,35 @@
       "status": "approved",
       "submittedAt": "3/17/2026, 5:01:02 PM",
       "rank": 5
+    },
+    {
+      "pilotId": "p22",
+      "name": "Burton, Theron",
+      "crew": "Turbine",
+      "hard": "April 2026 1, April 2026 3, April 2026 4, April 2026 5, April 2026 13, April 2026 16, April 2026 21",
+      "soft": "April 2026 14, April 2026 15, April 2026 27",
+      "pto": "NONE",
+      "notes": "",
+      "contract": "",
+      "hardDates": [
+        "April 2026 1",
+        "April 2026 3",
+        "April 2026 4",
+        "April 2026 5",
+        "April 2026 13",
+        "April 2026 16",
+        "April 2026 21"
+      ],
+      "softDates": [
+        "April 2026 14",
+        "April 2026 15",
+        "April 2026 27"
+      ],
+      "ptoDates": [],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/23/2026, 6:54:20 PM",
+      "rank": 8
     }
   ],
   "sched": {
