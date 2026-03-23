@@ -1108,12 +1108,19 @@
       },
       "contract": "",
       "status": "manual"
+    },
+    "Molnar, Andrew:2026-04": {
+      "days": {
+        "5": "FLT:N789CT"
+      },
+      "contract": "",
+      "status": "manual"
     }
   },
   "published": false,
   "publishedAt": null,
   "adminCrew": "King Air 200",
-  "schedCrew": "Piston",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
