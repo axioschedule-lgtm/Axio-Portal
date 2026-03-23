@@ -112,7 +112,7 @@
       "sysRole": "pilot",
       "shareSchedule": true,
       "username": "benjamin.griswold",
-      "password": "pilot123",
+      "password": "Sweetpea1996!",
       "color": "#7A9A4A",
       "ratings": "Cirrus VFR",
       "notes": "",
@@ -552,33 +552,29 @@
       "pilotId": "p16",
       "name": "Miller, Kyle",
       "crew": "Turbine",
-      "hard": "April 2026 12, April 2026 13, April 2026 24, April 2026 27, April 2026 28, April 2026 29, April 2026 30",
-      "soft": "April 2026 11, April 2026 18, April 2026 25",
-      "pto": "April 2026 2, April 2026 3, April 2026 4",
+      "hard": "April 2026 1, April 2026 6, April 2026 7, April 2026 8, April 2026 13, April 2026 14, April 2026 15",
+      "soft": "April 2026 23, April 2026 24, April 2026 25",
+      "pto": "NONE",
       "notes": "",
       "contract": "",
       "hardDates": [
-        "April 2026 12",
+        "April 2026 1",
+        "April 2026 6",
+        "April 2026 7",
+        "April 2026 8",
         "April 2026 13",
-        "April 2026 24",
-        "April 2026 27",
-        "April 2026 28",
-        "April 2026 29",
-        "April 2026 30"
+        "April 2026 14",
+        "April 2026 15"
       ],
       "softDates": [
-        "April 2026 11",
-        "April 2026 18",
+        "April 2026 23",
+        "April 2026 24",
         "April 2026 25"
       ],
-      "ptoDates": [
-        "April 2026 2",
-        "April 2026 3",
-        "April 2026 4"
-      ],
+      "ptoDates": [],
       "month": "2026-04",
-      "status": "pending",
-      "submittedAt": "3/23/2026, 5:03:54 PM",
+      "status": "denied",
+      "submittedAt": "3/17/2026, 1:36:57 PM",
       "rank": 2
     },
     {
@@ -1136,25 +1132,6 @@
       },
       "contract": "",
       "status": "manual"
-    },
-    "Miller, Kyle:2026-04": {
-      "days": {
-        "2": "PTO",
-        "3": "PTO",
-        "4": "PTO",
-        "11": "S",
-        "12": "H",
-        "13": "H",
-        "18": "S",
-        "24": "H",
-        "25": "S",
-        "27": "H",
-        "28": "H",
-        "29": "H",
-        "30": "H"
-      },
-      "contract": "",
-      "status": "preview"
     }
   },
   "published": false,
@@ -1164,14 +1141,9 @@
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
-  "bidMonthFilter": "2026-04",
+  "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
