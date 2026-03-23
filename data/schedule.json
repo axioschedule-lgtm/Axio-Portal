@@ -22,7 +22,7 @@
       "color": "#5A7A2A",
       "ratings": "Cirrus VFR, Cirrus IFR, King Air PIC, Phenom PIC",
       "notes": "",
-      "aircraft": "SR-22,King Air 200,Phenom 100",
+      "aircraft": "Baron 58,King Air 200,Phenom 100",
       "kaRank": 1,
       "phRank": 1
     },
@@ -50,6 +50,31 @@
       "aircraft": "Baron 58"
     },
     {
+      "id": "p16",
+      "last": "Miller",
+      "first": "Kyle",
+      "crews": [
+        "Turbine"
+      ],
+      "crew": "Turbine",
+      "role": "PIC",
+      "hire": "2017-06-01",
+      "cert": "3736585",
+      "certType": "ATP",
+      "rank": 2,
+      "active": true,
+      "sysRole": "pilot",
+      "shareSchedule": true,
+      "username": "kyle.miller",
+      "password": "pilot123",
+      "color": "#55574F",
+      "ratings": "King Air PIC, King Air SIC, Phenom PIC, Phenom SIC, SIC PDP Mentor",
+      "notes": "SIC Required for EMB",
+      "aircraft": "King Air 200,Phenom 100",
+      "kaRank": 2,
+      "phRank": 2
+    },
+    {
       "id": "p3",
       "last": "McKnight",
       "first": "Mike",
@@ -71,6 +96,31 @@
       "ratings": "Baron VFR, Baron IFR",
       "notes": "",
       "aircraft": "Baron 58"
+    },
+    {
+      "id": "p17",
+      "last": "Matthia",
+      "first": "James",
+      "crews": [
+        "Turbine"
+      ],
+      "crew": "Turbine",
+      "role": "PIC",
+      "hire": "2023-06-16",
+      "cert": "4351938",
+      "certType": "ATP",
+      "rank": 3,
+      "active": true,
+      "sysRole": "pilot",
+      "shareSchedule": true,
+      "username": "james.matthia",
+      "password": "pilot123",
+      "color": "#55574F",
+      "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
+      "notes": "SIC Required for EMB",
+      "aircraft": "King Air 200,Phenom 100",
+      "kaRank": 3,
+      "phRank": 3
     },
     {
       "id": "p4",
@@ -96,6 +146,31 @@
       "aircraft": ""
     },
     {
+      "id": "p18",
+      "last": "Stafford",
+      "first": "Russel",
+      "crews": [
+        "Turbine"
+      ],
+      "crew": "Turbine",
+      "role": "PIC",
+      "hire": "2024-05-24",
+      "cert": "4275551",
+      "certType": "Commercial",
+      "rank": 4,
+      "active": true,
+      "sysRole": "pilot",
+      "shareSchedule": true,
+      "username": "russel.stafford",
+      "password": "pilot123",
+      "color": "#65665F",
+      "ratings": "King Air PIC, King Air SIC",
+      "notes": "",
+      "aircraft": "King Air 200",
+      "kaRank": 4,
+      "phRank": 0
+    },
+    {
       "id": "p5",
       "last": "Griswold",
       "first": "Benjamin",
@@ -117,6 +192,31 @@
       "ratings": "Cirrus VFR",
       "notes": "",
       "aircraft": "SR-22"
+    },
+    {
+      "id": "p19",
+      "last": "King III",
+      "first": "Fitzwilliam",
+      "crews": [
+        "Turbine"
+      ],
+      "crew": "Turbine",
+      "role": "PIC",
+      "hire": "2024-06-06",
+      "cert": "4336181",
+      "certType": "Commercial",
+      "rank": 5,
+      "active": true,
+      "sysRole": "pilot",
+      "shareSchedule": true,
+      "username": "fitzwilliam.king",
+      "password": "pilot123",
+      "color": "#737668",
+      "ratings": "King Air PIC, Baron 58",
+      "notes": "",
+      "aircraft": "King Air 200,Baron 58",
+      "kaRank": 5,
+      "phRank": 0
     },
     {
       "id": "p6",
@@ -142,6 +242,31 @@
       "aircraft": "SR-22"
     },
     {
+      "id": "p20",
+      "last": "Rokala",
+      "first": "Hannah",
+      "crews": [
+        "Turbine"
+      ],
+      "crew": "Turbine",
+      "role": "PIC",
+      "hire": "2025-08-18",
+      "cert": "4740746",
+      "certType": "Commercial",
+      "rank": 6,
+      "active": true,
+      "sysRole": "pilot",
+      "shareSchedule": true,
+      "username": "hannah.rokala",
+      "password": "pilot123",
+      "color": "#75766F",
+      "ratings": "King Air PIC",
+      "notes": "",
+      "aircraft": "King Air 200",
+      "kaRank": 6,
+      "phRank": 0
+    },
+    {
       "id": "p7",
       "last": "Elliott",
       "first": "Brendan",
@@ -165,6 +290,31 @@
       "aircraft": "SR-22,Baron 58"
     },
     {
+      "id": "p21",
+      "last": "Molnar",
+      "first": "Andrew",
+      "crews": [
+        "Turbine"
+      ],
+      "crew": "Turbine",
+      "role": "PIC",
+      "hire": "2025-08-18",
+      "cert": "4907757",
+      "certType": "Commercial",
+      "rank": 7,
+      "active": true,
+      "sysRole": "pilot",
+      "shareSchedule": true,
+      "username": "andrew.molnar",
+      "password": "pilot123",
+      "color": "#85867F",
+      "ratings": "King Air PIC, Phenom SIC",
+      "notes": "",
+      "aircraft": "King Air 200,Phenom 100",
+      "kaRank": 7,
+      "phRank": 4
+    },
+    {
       "id": "p8",
       "last": "Morgan",
       "first": "Jackson",
@@ -186,6 +336,31 @@
       "ratings": "Cirrus VFR, Cirrus IFR",
       "notes": "",
       "aircraft": "SR-22"
+    },
+    {
+      "id": "p22",
+      "last": "Burton",
+      "first": "Theron",
+      "crews": [
+        "Turbine"
+      ],
+      "crew": "Turbine",
+      "role": "PIC",
+      "hire": "2025-09-02",
+      "cert": "3800576",
+      "certType": "ATP",
+      "rank": 8,
+      "active": true,
+      "sysRole": "pilot",
+      "shareSchedule": true,
+      "username": "theron.burton",
+      "password": "pilot123",
+      "color": "#95968F",
+      "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
+      "notes": "",
+      "aircraft": "King Air 200,Phenom 100",
+      "kaRank": 8,
+      "phRank": 5
     },
     {
       "id": "p9",
@@ -231,7 +406,7 @@
       "color": "#0A2A00",
       "ratings": "Cirrus VFR, Baron VFR",
       "notes": "",
-      "aircraft": "SR-22,Baron 58"
+      "aircraft": "SR-22"
     },
     {
       "id": "p11",
@@ -254,7 +429,27 @@
       "color": "#AACA7A",
       "ratings": "",
       "notes": "",
-      "aircraft": ""
+      "aircraft": "SR-22"
+    },
+    {
+      "id": "p1774300358591",
+      "last": "Speas",
+      "first": "Samuel",
+      "crew": "Piston",
+      "crews": [
+        "Piston"
+      ],
+      "role": "PIC",
+      "hire": "2026-03-23",
+      "cert": "4173133",
+      "sysRole": "pilot",
+      "rank": 12,
+      "active": true,
+      "username": "samuel.speas",
+      "password": "pilot123",
+      "aircraft": "SR-22",
+      "color": "#2A6496",
+      "shareSchedule": true
     },
     {
       "id": "p12",
@@ -347,201 +542,6 @@
       "ratings": "Cirrus VFR",
       "notes": "",
       "aircraft": "SR-22"
-    },
-    {
-      "id": "p16",
-      "last": "Miller",
-      "first": "Kyle",
-      "crews": [
-        "Turbine"
-      ],
-      "crew": "Turbine",
-      "role": "PIC",
-      "hire": "2017-06-01",
-      "cert": "3736585",
-      "certType": "ATP",
-      "rank": 2,
-      "active": true,
-      "sysRole": "pilot",
-      "shareSchedule": true,
-      "username": "kyle.miller",
-      "password": "pilot123",
-      "color": "#55574F",
-      "ratings": "King Air PIC, King Air SIC, Phenom PIC, Phenom SIC, SIC PDP Mentor",
-      "notes": "SIC Required for EMB",
-      "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 2,
-      "phRank": 2
-    },
-    {
-      "id": "p17",
-      "last": "Matthia",
-      "first": "James",
-      "crews": [
-        "Turbine"
-      ],
-      "crew": "Turbine",
-      "role": "PIC",
-      "hire": "2023-06-16",
-      "cert": "4351938",
-      "certType": "ATP",
-      "rank": 3,
-      "active": true,
-      "sysRole": "pilot",
-      "shareSchedule": true,
-      "username": "james.matthia",
-      "password": "pilot123",
-      "color": "#55574F",
-      "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
-      "notes": "SIC Required for EMB",
-      "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 3,
-      "phRank": 3
-    },
-    {
-      "id": "p18",
-      "last": "Stafford",
-      "first": "Russel",
-      "crews": [
-        "Turbine"
-      ],
-      "crew": "Turbine",
-      "role": "PIC",
-      "hire": "2024-05-24",
-      "cert": "4275551",
-      "certType": "Commercial",
-      "rank": 4,
-      "active": true,
-      "sysRole": "pilot",
-      "shareSchedule": true,
-      "username": "russel.stafford",
-      "password": "pilot123",
-      "color": "#65665F",
-      "ratings": "King Air PIC, King Air SIC",
-      "notes": "",
-      "aircraft": "King Air 200",
-      "kaRank": 4,
-      "phRank": 0
-    },
-    {
-      "id": "p19",
-      "last": "King III",
-      "first": "Fitzwilliam",
-      "crews": [
-        "Turbine"
-      ],
-      "crew": "Turbine",
-      "role": "PIC",
-      "hire": "2024-06-06",
-      "cert": "4336181",
-      "certType": "Commercial",
-      "rank": 5,
-      "active": true,
-      "sysRole": "pilot",
-      "shareSchedule": true,
-      "username": "fitzwilliam.king",
-      "password": "pilot123",
-      "color": "#737668",
-      "ratings": "King Air PIC, Baron 58",
-      "notes": "",
-      "aircraft": "King Air 200,Baron 58",
-      "kaRank": 5,
-      "phRank": 0
-    },
-    {
-      "id": "p20",
-      "last": "Rokala",
-      "first": "Hannah",
-      "crews": [
-        "Turbine"
-      ],
-      "crew": "Turbine",
-      "role": "PIC",
-      "hire": "2025-08-18",
-      "cert": "4740746",
-      "certType": "Commercial",
-      "rank": 6,
-      "active": true,
-      "sysRole": "pilot",
-      "shareSchedule": true,
-      "username": "hannah.rokala",
-      "password": "pilot123",
-      "color": "#75766F",
-      "ratings": "King Air PIC",
-      "notes": "",
-      "aircraft": "King Air 200",
-      "kaRank": 6,
-      "phRank": 0
-    },
-    {
-      "id": "p21",
-      "last": "Molnar",
-      "first": "Andrew",
-      "crews": [
-        "Turbine"
-      ],
-      "crew": "Turbine",
-      "role": "PIC",
-      "hire": "2025-08-18",
-      "cert": "4907757",
-      "certType": "Commercial",
-      "rank": 7,
-      "active": true,
-      "sysRole": "pilot",
-      "shareSchedule": true,
-      "username": "andrew.molnar",
-      "password": "pilot123",
-      "color": "#85867F",
-      "ratings": "King Air PIC, Phenom SIC",
-      "notes": "",
-      "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 7,
-      "phRank": 4
-    },
-    {
-      "id": "p22",
-      "last": "Burton",
-      "first": "Theron",
-      "crews": [
-        "Turbine"
-      ],
-      "crew": "Turbine",
-      "role": "PIC",
-      "hire": "2025-09-02",
-      "cert": "3800576",
-      "certType": "ATP",
-      "rank": 8,
-      "active": true,
-      "sysRole": "pilot",
-      "shareSchedule": true,
-      "username": "theron.burton",
-      "password": "pilot123",
-      "color": "#95968F",
-      "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
-      "notes": "",
-      "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 8,
-      "phRank": 5
-    },
-    {
-      "id": "p1774300358591",
-      "last": "Speas",
-      "first": "Samuel",
-      "crew": "Piston",
-      "crews": [
-        "Piston"
-      ],
-      "role": "PIC",
-      "hire": "2026-03-23",
-      "cert": "4173133",
-      "sysRole": "pilot",
-      "rank": 12,
-      "active": true,
-      "username": "speas.samuel",
-      "password": "pilot123",
-      "aircraft": "SR-22",
-      "color": "#2A6496",
-      "shareSchedule": true
     }
   ],
   "adminAccounts": [
@@ -1164,11 +1164,10 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p3",
-    "name": "McKnight, Mike",
-    "role": "pilot",
-    "pilotId": "p3",
-    "username": "mike.mcknight"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
