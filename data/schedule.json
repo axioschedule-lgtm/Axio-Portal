@@ -1167,11 +1167,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p21",
-    "name": "Molnar, Andrew",
+    "id": "p22",
+    "name": "Burton, Theron",
     "role": "pilot",
-    "pilotId": "p21",
-    "username": "andrew.molnar"
+    "pilotId": "p22",
+    "username": "theron.burton"
   },
   "loginTab": "admin",
   "ptoLedger": {
