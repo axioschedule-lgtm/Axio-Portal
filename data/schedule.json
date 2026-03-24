@@ -1275,11 +1275,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p16",
-    "name": "Miller, Kyle",
+    "id": "p7",
+    "name": "Elliott, Brendan",
     "role": "pilot",
-    "pilotId": "p16",
-    "username": "kyle.miller"
+    "pilotId": "p7",
+    "username": "brendan.elliott"
   },
   "loginTab": "admin",
   "ptoLedger": {
