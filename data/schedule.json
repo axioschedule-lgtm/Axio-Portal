@@ -1242,11 +1242,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p2",
-    "name": "Foster II, Samuel",
+    "id": "p10",
+    "name": "Normand, Thomas",
     "role": "pilot",
-    "pilotId": "p2",
-    "username": "samuel.foster"
+    "pilotId": "p10",
+    "username": "thomas.normand"
   },
   "loginTab": "admin",
   "ptoLedger": {
