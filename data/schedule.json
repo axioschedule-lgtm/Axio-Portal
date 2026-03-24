@@ -1085,7 +1085,7 @@
       "days": {
         "4": "H",
         "5": "S",
-        "11": "S",
+        "11": "FLT:N989LA",
         "18": "S",
         "19": "S",
         "24": "H",
@@ -1308,7 +1308,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Phenom 100",
-  "schedCrew": "Piston",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
