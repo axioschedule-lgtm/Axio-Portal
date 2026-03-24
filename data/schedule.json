@@ -1122,6 +1122,7 @@
         "11": "H",
         "12": "H",
         "13": "H",
+        "14": "OD",
         "19": "S",
         "24": "S",
         "25": "H"
@@ -1314,7 +1315,7 @@
   "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
-  "bidFilter": "pending",
+  "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
