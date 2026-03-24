@@ -1241,7 +1241,13 @@
   "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p10",
+    "name": "Normand, Thomas",
+    "role": "pilot",
+    "pilotId": "p10",
+    "username": "thomas.normand"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
