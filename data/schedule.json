@@ -97,7 +97,7 @@
       "color": "#3A5A0A",
       "ratings": "",
       "notes": "",
-      "aircraft": "Baron 58,King Air 200,Phenom 100",
+      "aircraft": "Baron 58,King Air 200",
       "kaRank": 7,
       "phRank": 5
     },
@@ -502,7 +502,7 @@
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
       "kaRank": 9,
-      "phRank": 6
+      "phRank": 5
     },
     {
       "id": "p22",
@@ -527,7 +527,7 @@
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
       "kaRank": 10,
-      "phRank": 7
+      "phRank": 6
     }
   ],
   "adminAccounts": [
@@ -1406,7 +1406,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Phenom 100",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Phenom 100",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
