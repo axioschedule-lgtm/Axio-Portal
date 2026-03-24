@@ -1308,11 +1308,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p7",
-    "name": "Elliott, Brendan",
-    "role": "pilot",
-    "pilotId": "p7",
-    "username": "brendan.elliott"
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
