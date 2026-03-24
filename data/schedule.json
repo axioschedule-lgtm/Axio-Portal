@@ -80,7 +80,8 @@
       "last": "Urciuoli",
       "first": "Joe",
       "crews": [
-        "Piston"
+        "Piston",
+        "Turbine"
       ],
       "crew": "Piston",
       "role": "PIC",
@@ -96,7 +97,9 @@
       "color": "#3A5A0A",
       "ratings": "",
       "notes": "",
-      "aircraft": ""
+      "aircraft": "Baron 58,King Air 200,Phenom 100",
+      "kaRank": 7,
+      "phRank": 5
     },
     {
       "id": "p5",
@@ -473,7 +476,7 @@
       "ratings": "King Air PIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 7,
+      "kaRank": 8,
       "phRank": 0
     },
     {
@@ -498,8 +501,8 @@
       "ratings": "King Air PIC, Phenom SIC",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 8,
-      "phRank": 5
+      "kaRank": 9,
+      "phRank": 6
     },
     {
       "id": "p22",
@@ -523,8 +526,8 @@
       "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 9,
-      "phRank": 6
+      "kaRank": 10,
+      "phRank": 7
     }
   ],
   "adminAccounts": [
