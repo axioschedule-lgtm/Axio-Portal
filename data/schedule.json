@@ -899,6 +899,32 @@
       "status": "pending",
       "submittedAt": "3/23/2026, 6:54:20 PM",
       "rank": 8
+    },
+    {
+      "pilotId": "p2",
+      "name": "Foster II, Samuel",
+      "crew": "Piston",
+      "hard": "June 2026 24, June 2026 25, June 2026 26, June 2026 27",
+      "soft": "June 2026 28, June 2026 29, June 2026 30",
+      "pto": "NONE",
+      "notes": "In Italy with Marie Jun 24-Jul 2, and discussed these dates with Adam in Jan/Feb. \n\nOwed 4 days off from between Jan-Mar and would like to use them instead of PTO days. Then make one hard day in July the 2nd\n\nJan 30 (airlined home from MMU after 369 mechanical)\nFeb 15 (was on Heather TEB trip)\nMar 14 (gave up day off to fly SPA-LEE-MAI-SPA)\nMar 15 (gave up day off to fly SPA-CHS-MGR-PDK-SPA)",
+      "contract": "either",
+      "hardDates": [
+        "June 2026 24",
+        "June 2026 25",
+        "June 2026 26",
+        "June 2026 27"
+      ],
+      "softDates": [
+        "June 2026 28",
+        "June 2026 29",
+        "June 2026 30"
+      ],
+      "ptoDates": [],
+      "month": "2026-06",
+      "status": "pending",
+      "submittedAt": "3/23/2026, 9:24:55 PM",
+      "rank": 2
     }
   ],
   "sched": {
