@@ -1241,13 +1241,7 @@
   "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "p11",
-    "name": "Catesson, Emilie",
-    "role": "pilot",
-    "pilotId": "p11",
-    "username": "emilie.catesson"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
