@@ -31,7 +31,8 @@
       "last": "Foster II",
       "first": "Samuel",
       "crews": [
-        "Piston"
+        "Piston",
+        "Turbine"
       ],
       "crew": "Piston",
       "role": "PIC",
@@ -47,7 +48,9 @@
       "color": "#4A6A1A",
       "ratings": "Baron VFR",
       "notes": "",
-      "aircraft": "Baron 58"
+      "aircraft": "Baron 58,King Air 200,Phenom 100",
+      "kaRank": 4,
+      "phRank": 4
     },
     {
       "id": "p3",
@@ -420,7 +423,7 @@
       "ratings": "King Air PIC, King Air SIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 4,
+      "kaRank": 5,
       "phRank": 0
     },
     {
@@ -445,7 +448,7 @@
       "ratings": "King Air PIC, Baron 58",
       "notes": "",
       "aircraft": "King Air 200,Baron 58",
-      "kaRank": 5,
+      "kaRank": 6,
       "phRank": 0
     },
     {
@@ -470,7 +473,7 @@
       "ratings": "King Air PIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 6,
+      "kaRank": 7,
       "phRank": 0
     },
     {
@@ -495,8 +498,8 @@
       "ratings": "King Air PIC, Phenom SIC",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 7,
-      "phRank": 4
+      "kaRank": 8,
+      "phRank": 5
     },
     {
       "id": "p22",
@@ -520,8 +523,8 @@
       "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 8,
-      "phRank": 5
+      "kaRank": 9,
+      "phRank": 6
     }
   ],
   "adminAccounts": [
@@ -1302,7 +1305,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Phenom 100",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
