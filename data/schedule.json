@@ -1096,8 +1096,22 @@
       "status": "manual"
     },
     "Niesen, Nate:2026-04": {
-      "days": {},
-      "contract": "",
+      "days": {
+        "6": "S",
+        "7": "S",
+        "13": "S",
+        "14": "S",
+        "22": "H",
+        "23": "H",
+        "24": "H",
+        "25": "H",
+        "26": "PTO",
+        "27": "PTO",
+        "28": "PTO",
+        "29": "PTO",
+        "30": "PTO"
+      },
+      "contract": "302",
       "status": "manual"
     },
     "Foster II, Samuel:2026-04": {
@@ -1405,8 +1419,8 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Phenom 100",
-  "schedCrew": "King Air 200",
+  "adminCrew": "Piston",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
