@@ -1239,7 +1239,7 @@
     },
     "Stafford, Russel:2026-04": {
       "days": {
-        "1": "OD",
+        "1": "TR",
         "2": "OD",
         "3": "OD",
         "4": "OD",
@@ -1406,7 +1406,7 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Phenom 100",
-  "schedCrew": "Phenom 100",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
