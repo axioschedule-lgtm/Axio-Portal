@@ -945,6 +945,39 @@
       "status": "pending",
       "submittedAt": "3/23/2026, 9:25:35 PM",
       "rank": 2
+    },
+    {
+      "pilotId": "p9",
+      "name": "Niesen, Nate",
+      "crew": "Piston",
+      "hard": "April 2026 22, April 2026 23, April 2026 24, April 2026 25",
+      "soft": "April 2026 6, April 2026 7, April 2026 13, April 2026 14",
+      "pto": "April 2026 26, April 2026 27, April 2026 28, April 2026 29, April 2026 30",
+      "notes": "I have my ATP CTP Course scheduled April 22nd-May1st as previously discussed.",
+      "contract": "302",
+      "hardDates": [
+        "April 2026 22",
+        "April 2026 23",
+        "April 2026 24",
+        "April 2026 25"
+      ],
+      "softDates": [
+        "April 2026 6",
+        "April 2026 7",
+        "April 2026 13",
+        "April 2026 14"
+      ],
+      "ptoDates": [
+        "April 2026 26",
+        "April 2026 27",
+        "April 2026 28",
+        "April 2026 29",
+        "April 2026 30"
+      ],
+      "month": "2026-04",
+      "status": "pending",
+      "submittedAt": "3/24/2026, 2:24:41 AM",
+      "rank": 9
     }
   ],
   "sched": {
