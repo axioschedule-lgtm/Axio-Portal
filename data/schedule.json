@@ -978,6 +978,39 @@
       "status": "pending",
       "submittedAt": "3/24/2026, 2:27:11 AM",
       "rank": 9
+    },
+    {
+      "pilotId": "p7",
+      "name": "Elliott, Brendan",
+      "crew": "Piston",
+      "hard": "May 2026 16, May 2026 17, May 2026 23, May 2026 24",
+      "soft": "May 2026 2, May 2026 9, May 2026 10, May 2026 30",
+      "pto": "May 2026 18, May 2026 19, May 2026 20, May 2026 21, May 2026 22",
+      "notes": "Expecting office hours, but submitting a pilot bid just in case I get reintegrated into the pilot schedule by May. \nPTO request submitted 12/10/25 via Slack for family cruise May 18-23. Requesting hard days on the weekend on both ends due to associated travel before and after (fly to Port 5/16, fly home 5/23, reset day 5/24). Request soft days for the remaining weekends, prioritizing Saturdays over Sundays.",
+      "contract": "either",
+      "hardDates": [
+        "May 2026 16",
+        "May 2026 17",
+        "May 2026 23",
+        "May 2026 24"
+      ],
+      "softDates": [
+        "May 2026 2",
+        "May 2026 9",
+        "May 2026 10",
+        "May 2026 30"
+      ],
+      "ptoDates": [
+        "May 2026 18",
+        "May 2026 19",
+        "May 2026 20",
+        "May 2026 21",
+        "May 2026 22"
+      ],
+      "month": "2026-05",
+      "status": "pending",
+      "submittedAt": "3/24/2026, 12:57:13 PM",
+      "rank": 7
     }
   ],
   "sched": {
