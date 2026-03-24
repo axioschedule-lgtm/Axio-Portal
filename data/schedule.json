@@ -1267,19 +1267,14 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "King Air 200",
+  "adminCrew": "Phenom 100",
   "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
-  },
+  "currentUser": null,
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
