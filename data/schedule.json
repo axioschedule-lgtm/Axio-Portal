@@ -1241,7 +1241,13 @@
   "bidFilter": "pending",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p9",
+    "name": "Niesen, Nate",
+    "role": "pilot",
+    "pilotId": "p9",
+    "username": "nate.niesen"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
