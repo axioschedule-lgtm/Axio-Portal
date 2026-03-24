@@ -1196,10 +1196,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p2",
+    "name": "Foster II, Samuel",
+    "role": "pilot",
+    "pilotId": "p2",
+    "username": "samuel.foster"
   },
   "loginTab": "admin",
   "ptoLedger": {
