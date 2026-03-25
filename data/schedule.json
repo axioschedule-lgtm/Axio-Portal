@@ -1422,11 +1422,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p3",
-    "name": "McKnight, Mike",
-    "role": "pilot",
-    "pilotId": "p3",
-    "username": "mike.mcknight"
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
   },
   "loginTab": "admin",
   "ptoLedger": {
