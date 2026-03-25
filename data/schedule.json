@@ -31,8 +31,7 @@
       "last": "Foster II",
       "first": "Samuel",
       "crews": [
-        "Piston",
-        "Turbine"
+        "Piston"
       ],
       "crew": "Piston",
       "role": "PIC",
@@ -48,9 +47,7 @@
       "color": "#4A6A1A",
       "ratings": "Baron VFR",
       "notes": "",
-      "aircraft": "Baron 58,King Air 200,Phenom 100",
-      "kaRank": 4,
-      "phRank": 4
+      "aircraft": "Baron 58"
     },
     {
       "id": "p3",
@@ -80,8 +77,7 @@
       "last": "Urciuoli",
       "first": "Joe",
       "crews": [
-        "Piston",
-        "Turbine"
+        "Piston"
       ],
       "crew": "Piston",
       "role": "PIC",
@@ -97,9 +93,7 @@
       "color": "#3A5A0A",
       "ratings": "",
       "notes": "",
-      "aircraft": "Baron 58,King Air 200",
-      "kaRank": 7,
-      "phRank": 5
+      "aircraft": ""
     },
     {
       "id": "p5",
@@ -426,7 +420,7 @@
       "ratings": "King Air PIC, King Air SIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 5,
+      "kaRank": 4,
       "phRank": 0
     },
     {
@@ -451,7 +445,7 @@
       "ratings": "King Air PIC, Baron 58",
       "notes": "",
       "aircraft": "King Air 200,Baron 58",
-      "kaRank": 6,
+      "kaRank": 5,
       "phRank": 0
     },
     {
@@ -476,7 +470,7 @@
       "ratings": "King Air PIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 8,
+      "kaRank": 6,
       "phRank": 0
     },
     {
@@ -501,8 +495,8 @@
       "ratings": "King Air PIC, Phenom SIC",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 9,
-      "phRank": 5
+      "kaRank": 7,
+      "phRank": 4
     },
     {
       "id": "p22",
@@ -526,8 +520,8 @@
       "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 10,
-      "phRank": 6
+      "kaRank": 8,
+      "phRank": 5
     }
   ],
   "adminAccounts": [
@@ -1131,8 +1125,8 @@
     },
     "Rokala, Hannah:2026-04": {
       "days": {
-        "1": "FLT:N989LA",
-        "2": "FLT:N989LA",
+        "1": "OD",
+        "2": "OD",
         "3": "OD",
         "4": "OD",
         "5": "OD",
@@ -1154,7 +1148,7 @@
         "21": "OD",
         "22": "OD",
         "23": "OD",
-        "24": "OD",
+        "24": "FLT:N34LT",
         "25": "OD",
         "26": "OD",
         "27": "OD",
@@ -1218,7 +1212,7 @@
     "Matthia, James:2026-04": {
       "days": {
         "1": "OD",
-        "2": "FLT:N989LA",
+        "2": "OD",
         "3": "OD",
         "4": "OD",
         "5": "OD",
@@ -1428,10 +1422,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1773340703116",
-    "name": "Zach Sanford",
-    "role": "admin",
-    "username": "zach.sanford"
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
   },
   "loginTab": "admin",
   "ptoLedger": {
