@@ -1458,7 +1458,8 @@
     },
     "Langford, Chris:2026-04": {
       "days": {
-        "1": "TR"
+        "1": "TR",
+        "2": "TR"
       },
       "contract": "",
       "status": "manual"
