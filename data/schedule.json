@@ -1439,7 +1439,8 @@
     "Catesson, Emilie:2026-04": {
       "days": {
         "1": "H",
-        "2": "OD"
+        "2": "OD",
+        "3": "OD"
       },
       "contract": "",
       "status": "manual"
@@ -1447,7 +1448,8 @@
     "Nott, Jordan:2026-04": {
       "days": {
         "1": "H",
-        "2": "OD"
+        "2": "OD",
+        "3": "OD"
       },
       "contract": "",
       "status": "manual"
