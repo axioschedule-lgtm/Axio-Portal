@@ -1491,10 +1491,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1773340703116",
-    "name": "Zach Sanford",
-    "role": "admin",
-    "username": "zach.sanford"
+    "id": "p10",
+    "name": "Normand, Thomas",
+    "role": "pilot",
+    "pilotId": "p10",
+    "username": "thomas.normand"
   },
   "loginTab": "admin",
   "ptoLedger": {
