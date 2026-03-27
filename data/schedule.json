@@ -1450,7 +1450,9 @@
       "status": "manual"
     },
     "Nott, Jordan:2026-04": {
-      "days": {},
+      "days": {
+        "23": "H"
+      },
       "contract": "",
       "status": "manual"
     },
@@ -1484,7 +1486,7 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "King Air 200",
+  "adminCrew": "Piston",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
