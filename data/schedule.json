@@ -1451,7 +1451,8 @@
     },
     "Nott, Jordan:2026-04": {
       "days": {
-        "23": "H"
+        "23": "H",
+        "24": "H"
       },
       "contract": "",
       "status": "manual"
