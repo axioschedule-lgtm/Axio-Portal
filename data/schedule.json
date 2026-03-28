@@ -1491,11 +1491,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p10",
-    "name": "Normand, Thomas",
+    "id": "p15",
+    "name": "Nott, Jordan",
     "role": "pilot",
-    "pilotId": "p10",
-    "username": "thomas.normand"
+    "pilotId": "p15",
+    "username": "jordan.nott"
   },
   "loginTab": "admin",
   "ptoLedger": {
