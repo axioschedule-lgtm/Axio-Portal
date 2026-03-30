@@ -31,7 +31,8 @@
       "last": "Foster II",
       "first": "Samuel",
       "crews": [
-        "Piston"
+        "Piston",
+        "Turbine"
       ],
       "crew": "Piston",
       "role": "PIC",
@@ -47,7 +48,9 @@
       "color": "#4A6A1A",
       "ratings": "Baron VFR",
       "notes": "",
-      "aircraft": "Baron 58"
+      "aircraft": "Baron 58,King Air 200,Phenom 100",
+      "kaRank": 4,
+      "phRank": 4
     },
     {
       "id": "p3",
@@ -342,7 +345,7 @@
       "sysRole": "pilot",
       "shareSchedule": true,
       "username": "jordan.nott",
-      "password": "19Anderson94!",
+      "password": "pilot123",
       "color": "#D2F2A2",
       "ratings": "Cirrus VFR",
       "notes": "",
@@ -420,7 +423,7 @@
       "ratings": "King Air PIC, King Air SIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 4,
+      "kaRank": 5,
       "phRank": 0
     },
     {
@@ -445,7 +448,7 @@
       "ratings": "King Air PIC, Baron 58",
       "notes": "",
       "aircraft": "King Air 200,Baron 58",
-      "kaRank": 5,
+      "kaRank": 6,
       "phRank": 0
     },
     {
@@ -470,7 +473,7 @@
       "ratings": "King Air PIC",
       "notes": "",
       "aircraft": "King Air 200",
-      "kaRank": 6,
+      "kaRank": 7,
       "phRank": 0
     },
     {
@@ -495,8 +498,8 @@
       "ratings": "King Air PIC, Phenom SIC",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 7,
-      "phRank": 4
+      "kaRank": 8,
+      "phRank": 5
     },
     {
       "id": "p22",
@@ -520,8 +523,8 @@
       "ratings": "King Air PIC, Phenom PIC, SIC PDP Mentor",
       "notes": "",
       "aircraft": "King Air 200,Phenom 100",
-      "kaRank": 8,
-      "phRank": 5
+      "kaRank": 9,
+      "phRank": 6
     }
   ],
   "adminAccounts": [
@@ -1011,33 +1014,6 @@
       "status": "pending",
       "submittedAt": "3/24/2026, 12:57:13 PM",
       "rank": 7
-    },
-    {
-      "pilotId": "p15",
-      "name": "Nott, Jordan",
-      "crew": "Piston",
-      "hard": "May 2026 22, May 2026 23, May 2026 24, May 2026 25",
-      "soft": "May 2026 15, May 2026 16, May 2026 17, May 2026 21",
-      "pto": "NONE",
-      "notes": "May 15-17 - My college graduation weekend at Liberty University in Virginia.\nMay 21-25 - Family wedding that I am a part of in Virginia.",
-      "contract": "930",
-      "hardDates": [
-        "May 2026 22",
-        "May 2026 23",
-        "May 2026 24",
-        "May 2026 25"
-      ],
-      "softDates": [
-        "May 2026 15",
-        "May 2026 16",
-        "May 2026 17",
-        "May 2026 21"
-      ],
-      "ptoDates": [],
-      "month": "2026-05",
-      "status": "pending",
-      "submittedAt": "3/30/2026, 11:22:09 AM",
-      "rank": 15
     }
   ],
   "sched": {
@@ -1374,7 +1350,6 @@
         "12": "OD",
         "13": "H",
         "14": "OD",
-        "15": "FLT:N369AX",
         "16": "H",
         "17": "H",
         "18": "FLT:N369AX",
@@ -1535,10 +1510,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a2",
-    "name": "Flight Controller 1",
-    "role": "fc",
-    "username": "fc1"
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
+    "role": "admin",
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
