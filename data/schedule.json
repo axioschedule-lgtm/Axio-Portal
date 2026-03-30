@@ -342,7 +342,7 @@
       "sysRole": "pilot",
       "shareSchedule": true,
       "username": "jordan.nott",
-      "password": "19Anderson94!",
+      "password": "pilot123",
       "color": "#D2F2A2",
       "ratings": "Cirrus VFR",
       "notes": "",
@@ -1011,35 +1011,6 @@
       "status": "pending",
       "submittedAt": "3/24/2026, 12:57:13 PM",
       "rank": 7
-    },
-    {
-      "pilotId": "p16",
-      "name": "Miller, Kyle",
-      "crew": "Turbine",
-      "hard": "July 2026 9, July 2026 10, July 2026 11, July 2026 15, July 2026 16, July 2026 17, July 2026 18",
-      "soft": "July 2026 1, July 2026 7, July 2026 8",
-      "pto": "NONE",
-      "notes": "",
-      "contract": "",
-      "hardDates": [
-        "July 2026 9",
-        "July 2026 10",
-        "July 2026 11",
-        "July 2026 15",
-        "July 2026 16",
-        "July 2026 17",
-        "July 2026 18"
-      ],
-      "softDates": [
-        "July 2026 1",
-        "July 2026 7",
-        "July 2026 8"
-      ],
-      "ptoDates": [],
-      "month": "2026-07",
-      "status": "pending",
-      "submittedAt": "3/29/2026, 3:12:02 PM",
-      "rank": 2
     }
   ],
   "sched": {
@@ -1086,7 +1057,7 @@
         "14": "OD",
         "15": "OD",
         "16": "OD",
-        "17": "OD",
+        "17": "FLT:N989LA",
         "18": "OD",
         "19": "OD",
         "20": "OD",
@@ -1512,18 +1483,18 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Piston",
-  "schedCrew": "Piston",
+  "adminCrew": "King Air 200",
+  "schedCrew": "King Air 200",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
+    "id": "a1773340703116",
+    "name": "Zach Sanford",
     "role": "admin",
-    "username": "admin"
+    "username": "zach.sanford"
   },
   "loginTab": "admin",
   "ptoLedger": {
