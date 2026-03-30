@@ -80,7 +80,8 @@
       "last": "Urciuoli",
       "first": "Joe",
       "crews": [
-        "Piston"
+        "Piston",
+        "Turbine"
       ],
       "crew": "Piston",
       "role": "PIC",
