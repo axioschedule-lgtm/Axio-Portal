@@ -1018,7 +1018,9 @@
   ],
   "sched": {
     "Lockamy, Adam:2026-04": {
-      "days": {},
+      "days": {
+        "15": "FLT:N369AX"
+      },
       "contract": "",
       "status": "manual"
     },
