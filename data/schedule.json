@@ -1495,11 +1495,11 @@
   "published": false,
   "publishedAt": null,
   "adminCrew": "Piston",
-  "schedCrew": "King Air 200",
+  "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
   "bidFilter": "all",
-  "bidMonthFilter": "2026-05",
+  "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
     "id": "a1773340703116",
