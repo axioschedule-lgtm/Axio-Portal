@@ -1525,10 +1525,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
   },
   "loginTab": "admin",
   "ptoLedger": {
