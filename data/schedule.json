@@ -1525,10 +1525,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p7",
+    "name": "Elliott, Brendan",
+    "role": "pilot",
+    "pilotId": "p7",
+    "username": "brendan.elliott"
   },
   "loginTab": "admin",
   "ptoLedger": {
