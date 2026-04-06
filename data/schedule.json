@@ -1525,11 +1525,10 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p22",
-    "name": "Burton, Theron",
-    "role": "pilot",
-    "pilotId": "p22",
-    "username": "theron.burton"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
