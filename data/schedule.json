@@ -1551,7 +1551,13 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p15",
+    "name": "Nott, Jordan",
+    "role": "pilot",
+    "pilotId": "p15",
+    "username": "jordan.nott"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
