@@ -1552,11 +1552,11 @@
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p13",
-    "name": "Rooney, Noah",
+    "id": "p12",
+    "name": "Norris, Nathan",
     "role": "pilot",
-    "pilotId": "p13",
-    "username": "noah.rooney"
+    "pilotId": "p12",
+    "username": "nathan.norris"
   },
   "loginTab": "admin",
   "ptoLedger": {
