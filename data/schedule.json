@@ -1580,7 +1580,13 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "p5",
+    "name": "Griswold, Benjamin",
+    "role": "pilot",
+    "pilotId": "p5",
+    "username": "benjamin.griswold"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
