@@ -1580,7 +1580,12 @@
   "bidFilter": "all",
   "bidMonthFilter": "2026-04",
   "yvCrew": "Piston",
-  "currentUser": null,
+  "currentUser": {
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
+  },
   "loginTab": "admin",
   "ptoLedger": {
     "p16": {
