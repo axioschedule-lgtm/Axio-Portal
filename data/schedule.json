@@ -158,7 +158,7 @@
       "sysRole": "pilot",
       "shareSchedule": true,
       "username": "brendan.elliott",
-      "password": "USArmyAV_2016",
+      "password": "LittleblackH@WK67!",
       "color": "#8AAA5A",
       "ratings": "Cirrus VFR, Cirrus IFR, Baron VFR, Baron IFR",
       "notes": "",
@@ -1625,11 +1625,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p15",
-    "name": "Nott, Jordan",
+    "id": "p7",
+    "name": "Elliott, Brendan",
     "role": "pilot",
-    "pilotId": "p15",
-    "username": "jordan.nott"
+    "pilotId": "p7",
+    "username": "brendan.elliott"
   },
   "loginTab": "admin",
   "ptoLedger": {
