@@ -1569,11 +1569,28 @@
       },
       "contract": "",
       "status": "manual"
+    },
+    "Burton, Theron:2026-05": {
+      "days": {
+        "6": "PTO",
+        "18": "H",
+        "19": "H",
+        "20": "H",
+        "21": "H",
+        "22": "H",
+        "23": "H",
+        "24": "S",
+        "25": "S",
+        "26": "S",
+        "29": "H"
+      },
+      "contract": "",
+      "status": "preview"
     }
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Piston",
+  "adminCrew": "Phenom 100",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
