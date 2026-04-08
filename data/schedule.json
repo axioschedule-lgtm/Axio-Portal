@@ -131,7 +131,7 @@
       "cert": "4659915",
       "certType": "Commercial",
       "rank": 6,
-      "active": false,
+      "active": true,
       "sysRole": "pilot",
       "shareSchedule": true,
       "username": "luke.ledbetter",
