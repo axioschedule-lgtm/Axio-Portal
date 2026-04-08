@@ -1625,11 +1625,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p7",
-    "name": "Elliott, Brendan",
+    "id": "p12",
+    "name": "Norris, Nathan",
     "role": "pilot",
-    "pilotId": "p7",
-    "username": "brendan.elliott"
+    "pilotId": "p12",
+    "username": "nathan.norris"
   },
   "loginTab": "admin",
   "ptoLedger": {
