@@ -93,7 +93,7 @@
       "color": "#3A5A0A",
       "ratings": "",
       "notes": "",
-      "aircraft": ""
+      "aircraft": "Baron 58,King Air 200"
     },
     {
       "id": "p5",
@@ -1617,7 +1617,7 @@
   },
   "published": false,
   "publishedAt": null,
-  "adminCrew": "Phenom 100",
+  "adminCrew": "Piston",
   "schedCrew": "Piston",
   "liveCrew": "Piston",
   "liveViewAs": "",
