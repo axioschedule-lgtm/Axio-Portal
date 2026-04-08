@@ -116,7 +116,7 @@
       "color": "#7A9A4A",
       "ratings": "Cirrus VFR",
       "notes": "",
-      "aircraft": "SR-22,Baron 58"
+      "aircraft": "SR-22"
     },
     {
       "id": "p6",
@@ -139,7 +139,7 @@
       "color": "#2A4A0A",
       "ratings": "Cirrus VFR, Cirrus IFR",
       "notes": "",
-      "aircraft": "SR-22,Baron 58"
+      "aircraft": "SR-22"
     },
     {
       "id": "p7",
@@ -185,7 +185,7 @@
       "color": "#4A6A1A",
       "ratings": "Cirrus VFR, Cirrus IFR",
       "notes": "",
-      "aircraft": "SR-22,Baron 58"
+      "aircraft": "SR-22"
     },
     {
       "id": "p9",
@@ -254,7 +254,7 @@
       "color": "#AACA7A",
       "ratings": "",
       "notes": "",
-      "aircraft": "SR-22,Baron 58"
+      "aircraft": ""
     },
     {
       "id": "p12",
@@ -277,7 +277,7 @@
       "color": "#B4D484",
       "ratings": "Cirrus VFR",
       "notes": "",
-      "aircraft": "SR-22,Baron 58"
+      "aircraft": "SR-22"
     },
     {
       "id": "p13",
@@ -346,7 +346,7 @@
       "color": "#D2F2A2",
       "ratings": "Cirrus VFR",
       "notes": "",
-      "aircraft": "SR-22,Baron 58"
+      "aircraft": "SR-22"
     },
     {
       "id": "p16",
@@ -1598,10 +1598,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p15",
+    "name": "Nott, Jordan",
+    "role": "pilot",
+    "pilotId": "p15",
+    "username": "jordan.nott"
   },
   "loginTab": "admin",
   "ptoLedger": {
