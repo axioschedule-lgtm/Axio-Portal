@@ -1625,11 +1625,10 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p15",
-    "name": "Nott, Jordan",
-    "role": "pilot",
-    "pilotId": "p15",
-    "username": "jordan.nott"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
