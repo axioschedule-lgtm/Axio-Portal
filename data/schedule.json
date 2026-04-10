@@ -1625,10 +1625,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p4",
+    "name": "Urciuoli, Joe",
+    "role": "pilot",
+    "pilotId": "p4",
+    "username": "joe.urciuoli"
   },
   "loginTab": "admin",
   "ptoLedger": {
