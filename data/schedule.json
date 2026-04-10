@@ -1655,11 +1655,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p4",
-    "name": "Urciuoli, Joe",
+    "id": "p12",
+    "name": "Norris, Nathan",
     "role": "pilot",
-    "pilotId": "p4",
-    "username": "joe.urciuoli"
+    "pilotId": "p12",
+    "username": "nathan.norris"
   },
   "loginTab": "admin",
   "ptoLedger": {
