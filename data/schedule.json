@@ -1702,11 +1702,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p2",
-    "name": "Foster II, Samuel",
+    "id": "p9",
+    "name": "Niesen, Nate",
     "role": "pilot",
-    "pilotId": "p2",
-    "username": "samuel.foster"
+    "pilotId": "p9",
+    "username": "nate.niesen"
   },
   "loginTab": "admin",
   "ptoLedger": {
