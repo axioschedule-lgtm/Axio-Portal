@@ -1180,6 +1180,26 @@
       "status": "pending",
       "submittedAt": "4/10/2026, 4:56:25 PM",
       "rank": 12
+    },
+    {
+      "pilotId": "p2",
+      "name": "Foster II, Samuel",
+      "crew": "Piston",
+      "hard": "May 2026 30, May 2026 31",
+      "soft": "NONE",
+      "pto": "NONE",
+      "notes": "Another dang wedding/baby shower combo to go to back home for old friends",
+      "contract": "302",
+      "hardDates": [
+        "May 2026 30",
+        "May 2026 31"
+      ],
+      "softDates": [],
+      "ptoDates": [],
+      "month": "2026-05",
+      "status": "pending",
+      "submittedAt": "4/10/2026, 9:34:52 PM",
+      "rank": 2
     }
   ],
   "sched": {
