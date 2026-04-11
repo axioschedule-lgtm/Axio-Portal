@@ -1200,6 +1200,33 @@
       "status": "pending",
       "submittedAt": "4/10/2026, 9:34:52 PM",
       "rank": 2
+    },
+    {
+      "pilotId": "p9",
+      "name": "Niesen, Nate",
+      "crew": "Piston",
+      "hard": "May 2026 1, May 2026 4, May 2026 11, May 2026 18",
+      "soft": "May 2026 5, May 2026 19, May 2026 25, May 2026 26",
+      "pto": "NONE",
+      "notes": "May 1st is the last day of my ATP/CTP in Dallas.",
+      "contract": "302",
+      "hardDates": [
+        "May 2026 1",
+        "May 2026 4",
+        "May 2026 11",
+        "May 2026 18"
+      ],
+      "softDates": [
+        "May 2026 5",
+        "May 2026 19",
+        "May 2026 25",
+        "May 2026 26"
+      ],
+      "ptoDates": [],
+      "month": "2026-05",
+      "status": "pending",
+      "submittedAt": "4/11/2026, 1:03:30 AM",
+      "rank": 9
     }
   ],
   "sched": {
