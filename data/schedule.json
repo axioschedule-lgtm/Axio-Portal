@@ -1729,11 +1729,10 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p12",
-    "name": "Norris, Nathan",
-    "role": "pilot",
-    "pilotId": "p12",
-    "username": "nathan.norris"
+    "id": "a2",
+    "name": "Flight Controller 1",
+    "role": "fc",
+    "username": "fc1"
   },
   "loginTab": "admin",
   "ptoLedger": {
