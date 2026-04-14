@@ -1227,6 +1227,33 @@
       "status": "pending",
       "submittedAt": "4/11/2026, 1:03:30 AM",
       "rank": 9
+    },
+    {
+      "pilotId": "p6",
+      "name": "Ledbetter, Luke",
+      "crew": "Piston",
+      "hard": "May 2026 9, May 2026 10, May 2026 12, May 2026 16",
+      "soft": "May 2026 17, May 2026 23, May 2026 24, May 2026 31",
+      "pto": "NONE",
+      "notes": "",
+      "contract": "930",
+      "hardDates": [
+        "May 2026 9",
+        "May 2026 10",
+        "May 2026 12",
+        "May 2026 16"
+      ],
+      "softDates": [
+        "May 2026 17",
+        "May 2026 23",
+        "May 2026 24",
+        "May 2026 31"
+      ],
+      "ptoDates": [],
+      "month": "2026-05",
+      "status": "pending",
+      "submittedAt": "4/14/2026, 7:55:58 PM",
+      "rank": 6
     }
   ],
   "sched": {
