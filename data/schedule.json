@@ -1254,6 +1254,33 @@
       "status": "pending",
       "submittedAt": "4/14/2026, 7:55:58 PM",
       "rank": 6
+    },
+    {
+      "pilotId": "p12",
+      "name": "Norris, Nathan",
+      "crew": "Piston",
+      "hard": "June 2026 6, June 2026 13, June 2026 20, June 2026 27",
+      "soft": "June 2026 5, June 2026 12, June 2026 19, June 2026 26",
+      "pto": "NONE",
+      "notes": "",
+      "contract": "either",
+      "hardDates": [
+        "June 2026 6",
+        "June 2026 13",
+        "June 2026 20",
+        "June 2026 27"
+      ],
+      "softDates": [
+        "June 2026 5",
+        "June 2026 12",
+        "June 2026 19",
+        "June 2026 26"
+      ],
+      "ptoDates": [],
+      "month": "2026-06",
+      "status": "pending",
+      "submittedAt": "4/15/2026, 11:23:03 AM",
+      "rank": 12
     }
   ],
   "sched": {
