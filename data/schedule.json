@@ -1756,10 +1756,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "a1",
-    "name": "System Admin",
-    "role": "admin",
-    "username": "admin"
+    "id": "p12",
+    "name": "Norris, Nathan",
+    "role": "pilot",
+    "pilotId": "p12",
+    "username": "nathan.norris"
   },
   "loginTab": "admin",
   "ptoLedger": {
