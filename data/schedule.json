@@ -1756,11 +1756,10 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p6",
-    "name": "Ledbetter, Luke",
-    "role": "pilot",
-    "pilotId": "p6",
-    "username": "luke.ledbetter"
+    "id": "a1",
+    "name": "System Admin",
+    "role": "admin",
+    "username": "admin"
   },
   "loginTab": "admin",
   "ptoLedger": {
