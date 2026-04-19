@@ -1281,6 +1281,32 @@
       "status": "pending",
       "submittedAt": "4/15/2026, 11:23:03 AM",
       "rank": 12
+    },
+    {
+      "pilotId": "p21",
+      "name": "Molnar, Andrew",
+      "crew": "Turbine",
+      "hard": "June 2026 3, June 2026 4, June 2026 5, June 2026 6, June 2026 7, June 2026 8",
+      "soft": "June 2026 9",
+      "pto": "NONE",
+      "notes": "Going back up to NY for a wedding.",
+      "contract": "",
+      "hardDates": [
+        "June 2026 3",
+        "June 2026 4",
+        "June 2026 5",
+        "June 2026 6",
+        "June 2026 7",
+        "June 2026 8"
+      ],
+      "softDates": [
+        "June 2026 9"
+      ],
+      "ptoDates": [],
+      "month": "2026-06",
+      "status": "pending",
+      "submittedAt": "4/19/2026, 7:10:47 PM",
+      "rank": 7
     }
   ],
   "sched": {
