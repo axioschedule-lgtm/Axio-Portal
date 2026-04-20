@@ -1810,11 +1810,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p21",
-    "name": "Molnar, Andrew",
+    "id": "p7",
+    "name": "Elliott, Brendan",
     "role": "pilot",
-    "pilotId": "p21",
-    "username": "andrew.molnar"
+    "pilotId": "p7",
+    "username": "brendan.elliott"
   },
   "loginTab": "admin",
   "ptoLedger": {
