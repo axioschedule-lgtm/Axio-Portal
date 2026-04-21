@@ -1810,11 +1810,11 @@
   "bidMonthFilter": "2026-05",
   "yvCrew": "Piston",
   "currentUser": {
-    "id": "p12",
-    "name": "Norris, Nathan",
+    "id": "p22",
+    "name": "Burton, Theron",
     "role": "pilot",
-    "pilotId": "p12",
-    "username": "nathan.norris"
+    "pilotId": "p22",
+    "username": "theron.burton"
   },
   "loginTab": "admin",
   "ptoLedger": {
