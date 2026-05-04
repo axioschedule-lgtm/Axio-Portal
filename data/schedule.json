@@ -1308,6 +1308,33 @@
       "status": "pending",
       "submittedAt": "4/19/2026, 7:13:36 PM",
       "rank": 7
+    },
+    {
+      "pilotId": "p7",
+      "name": "Elliott, Brendan",
+      "crew": "Piston",
+      "hard": "June 2026 6, June 2026 13, June 2026 20, June 2026 27",
+      "soft": "June 2026 7, June 2026 14, June 2026 21, June 2026 28",
+      "pto": "NONE",
+      "notes": "No special requests for June",
+      "contract": "either",
+      "hardDates": [
+        "June 2026 6",
+        "June 2026 13",
+        "June 2026 20",
+        "June 2026 27"
+      ],
+      "softDates": [
+        "June 2026 7",
+        "June 2026 14",
+        "June 2026 21",
+        "June 2026 28"
+      ],
+      "ptoDates": [],
+      "month": "2026-06",
+      "status": "pending",
+      "submittedAt": "5/4/2026, 1:54:21 PM",
+      "rank": 7
     }
   ],
   "sched": {
