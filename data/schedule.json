@@ -1335,6 +1335,33 @@
       "status": "pending",
       "submittedAt": "5/4/2026, 1:56:36 PM",
       "rank": 7
+    },
+    {
+      "pilotId": "p15",
+      "name": "Nott, Jordan",
+      "crew": "Piston",
+      "hard": "June 2026 19, June 2026 20, June 2026 21, June 2026 26",
+      "soft": "June 2026 6, June 2026 18, June 2026 27, June 2026 28",
+      "pto": "NONE",
+      "notes": "18-21 - Best friend’s 40th bday in Chicago. \n26-28 - out of town",
+      "contract": "302",
+      "hardDates": [
+        "June 2026 19",
+        "June 2026 20",
+        "June 2026 21",
+        "June 2026 26"
+      ],
+      "softDates": [
+        "June 2026 6",
+        "June 2026 18",
+        "June 2026 27",
+        "June 2026 28"
+      ],
+      "ptoDates": [],
+      "month": "2026-06",
+      "status": "pending",
+      "submittedAt": "5/11/2026, 2:44:21 PM",
+      "rank": 15
     }
   ],
   "sched": {
