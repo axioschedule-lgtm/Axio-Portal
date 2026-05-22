@@ -1362,6 +1362,33 @@
       "status": "pending",
       "submittedAt": "5/11/2026, 2:44:21 PM",
       "rank": 15
+    },
+    {
+      "pilotId": "p13",
+      "name": "Rooney, Noah",
+      "crew": "Piston",
+      "hard": "June 2026 18, June 2026 19, June 2026 20, June 2026 21",
+      "soft": "June 2026 22, June 2026 23, June 2026 27, June 2026 28",
+      "pto": "NONE",
+      "notes": "18-21st we will be moving Courtney from Nashville to SC",
+      "contract": "either",
+      "hardDates": [
+        "June 2026 18",
+        "June 2026 19",
+        "June 2026 20",
+        "June 2026 21"
+      ],
+      "softDates": [
+        "June 2026 22",
+        "June 2026 23",
+        "June 2026 27",
+        "June 2026 28"
+      ],
+      "ptoDates": [],
+      "month": "2026-06",
+      "status": "pending",
+      "submittedAt": "5/22/2026, 3:18:30 PM",
+      "rank": 13
     }
   ],
   "sched": {
