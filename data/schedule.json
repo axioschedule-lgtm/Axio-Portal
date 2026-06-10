@@ -1389,6 +1389,33 @@
       "status": "pending",
       "submittedAt": "5/22/2026, 3:18:30 PM",
       "rank": 13
+    },
+    {
+      "pilotId": "p13",
+      "name": "Rooney, Noah",
+      "crew": "Piston",
+      "hard": "July 2026 27, July 2026 28, July 2026 29, July 2026 30",
+      "soft": "July 2026 4, July 2026 5, July 2026 16, July 2026 22",
+      "pto": "NONE",
+      "notes": "27th-30th will be driving to nashville to finish moving all of our things to spartanburg",
+      "contract": "either",
+      "hardDates": [
+        "July 2026 27",
+        "July 2026 28",
+        "July 2026 29",
+        "July 2026 30"
+      ],
+      "softDates": [
+        "July 2026 4",
+        "July 2026 5",
+        "July 2026 16",
+        "July 2026 22"
+      ],
+      "ptoDates": [],
+      "month": "2026-07",
+      "status": "pending",
+      "submittedAt": "6/9/2026, 9:15:40 PM",
+      "rank": 13
     }
   ],
   "sched": {
